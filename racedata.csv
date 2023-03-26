@@ -1,0 +1,1814 @@
+constructor,avglap,year,circuit,podium
+Mercedes,97872.11,2014,"Albert Park Grand Prix Circuit",1
+McLaren,98341.88,2014,"Albert Park Grand Prix Circuit",1
+McLaren,98398.89,2014,"Albert Park Grand Prix Circuit",1
+Ferrari,98491.12,2014,"Albert Park Grand Prix Circuit",0
+Williams,98707.88,2014,"Albert Park Grand Prix Circuit",0
+"Force India",98761.89,2014,"Albert Park Grand Prix Circuit",0
+Ferrari,98883.95,2014,"Albert Park Grand Prix Circuit",0
+"Toro Rosso",98932.47,2014,"Albert Park Grand Prix Circuit",0
+"Toro Rosso",98987.63,2014,"Albert Park Grand Prix Circuit",0
+"Force India",99379.40,2014,"Albert Park Grand Prix Circuit",0
+Williams,95728.67,2015,"Albert Park Grand Prix Circuit",0
+Mercedes,95070.12,2015,"Albert Park Grand Prix Circuit",1
+Mercedes,95093.57,2015,"Albert Park Grand Prix Circuit",1
+Ferrari,95665.34,2015,"Albert Park Grand Prix Circuit",1
+Sauber,96710.62,2015,"Albert Park Grand Prix Circuit",0
+"Force India",115566.04,2016,"Albert Park Grand Prix Circuit",0
+Renault,115459.14,2016,"Albert Park Grand Prix Circuit",0
+Renault,115420.42,2016,"Albert Park Grand Prix Circuit",0
+"Toro Rosso",115305.23,2016,"Albert Park Grand Prix Circuit",0
+"Toro Rosso",115285.00,2016,"Albert Park Grand Prix Circuit",0
+Williams,115275.75,2016,"Albert Park Grand Prix Circuit",0
+"Force India",115259.02,2016,"Albert Park Grand Prix Circuit",0
+"Red Bull",114384.12,2016,"Albert Park Grand Prix Circuit",0
+Ferrari,114126.46,2016,"Albert Park Grand Prix Circuit",1
+Mercedes,114098.68,2016,"Albert Park Grand Prix Circuit",1
+"Haas F1 Team",115221.86,2016,"Albert Park Grand Prix Circuit",0
+Williams,114992.00,2016,"Albert Park Grand Prix Circuit",0
+Mercedes,113957.28,2016,"Albert Park Grand Prix Circuit",1
+Ferrari,88625.82,2017,"Albert Park Grand Prix Circuit",1
+Mercedes,88800.82,2017,"Albert Park Grand Prix Circuit",1
+Mercedes,88823.19,2017,"Albert Park Grand Prix Circuit",1
+Ferrari,89018.68,2017,"Albert Park Grand Prix Circuit",0
+"Red Bull",89131.56,2017,"Albert Park Grand Prix Circuit",0
+Williams,90088.74,2017,"Albert Park Grand Prix Circuit",0
+McLaren,93244.90,2018,"Albert Park Grand Prix Circuit",0
+Renault,93431.12,2018,"Albert Park Grand Prix Circuit",0
+"Force India",93450.00,2018,"Albert Park Grand Prix Circuit",0
+"Force India",93682.09,2018,"Albert Park Grand Prix Circuit",0
+Sauber,93949.00,2018,"Albert Park Grand Prix Circuit",0
+Williams,93992.60,2018,"Albert Park Grand Prix Circuit",0
+Ferrari,92751.59,2018,"Albert Park Grand Prix Circuit",1
+Mercedes,92729.64,2018,"Albert Park Grand Prix Circuit",1
+Ferrari,92642.81,2018,"Albert Park Grand Prix Circuit",1
+Mercedes,93234.86,2018,"Albert Park Grand Prix Circuit",0
+Renault,93206.10,2018,"Albert Park Grand Prix Circuit",0
+"Red Bull",93141.86,2018,"Albert Park Grand Prix Circuit",0
+McLaren,93123.60,2018,"Albert Park Grand Prix Circuit",0
+"Red Bull",92764.69,2018,"Albert Park Grand Prix Circuit",0
+"Haas F1 Team",89904.84,2019,"Albert Park Grand Prix Circuit",0
+Ferrari,89405.66,2019,"Albert Park Grand Prix Circuit",0
+Ferrari,89386.79,2019,"Albert Park Grand Prix Circuit",0
+"Red Bull",88790.43,2019,"Albert Park Grand Prix Circuit",1
+Mercedes,88762.26,2019,"Albert Park Grand Prix Circuit",1
+Mercedes,88402.16,2019,"Albert Park Grand Prix Circuit",1
+Mercedes,91294.67,2022,"Albert Park Grand Prix Circuit",0
+Mercedes,91243.81,2022,"Albert Park Grand Prix Circuit",1
+"Aston Martin",92330.10,2022,"Albert Park Grand Prix Circuit",0
+"Red Bull",91156.41,2022,"Albert Park Grand Prix Circuit",1
+Ferrari,90802.55,2022,"Albert Park Grand Prix Circuit",1
+"Alfa Romeo",92211.09,2022,"Albert Park Grand Prix Circuit",0
+Williams,92171.21,2022,"Albert Park Grand Prix Circuit",0
+AlphaTauri,92116.71,2022,"Albert Park Grand Prix Circuit",0
+"Alfa Romeo",91982.53,2022,"Albert Park Grand Prix Circuit",0
+"Alpine F1 Team",91866.05,2022,"Albert Park Grand Prix Circuit",0
+McLaren,91729.05,2022,"Albert Park Grand Prix Circuit",0
+McLaren,91721.57,2022,"Albert Park Grand Prix Circuit",0
+Mercedes,84416.08,2020,"Autodromo Enzo e Dino Ferrari",1
+AlphaTauri,84564.62,2020,"Autodromo Enzo e Dino Ferrari",0
+Renault,84551.59,2020,"Autodromo Enzo e Dino Ferrari",1
+Mercedes,84324.29,2020,"Autodromo Enzo e Dino Ferrari",1
+"Alfa Romeo",84677.05,2020,"Autodromo Enzo e Dino Ferrari",0
+"Racing Point",84787.19,2020,"Autodromo Enzo e Dino Ferrari",0
+"Alfa Romeo",84743.30,2020,"Autodromo Enzo e Dino Ferrari",0
+Williams,84755.00,2020,"Autodromo Enzo e Dino Ferrari",0
+Ferrari,84775.92,2020,"Autodromo Enzo e Dino Ferrari",0
+McLaren,84659.70,2020,"Autodromo Enzo e Dino Ferrari",0
+"Racing Point",84636.22,2020,"Autodromo Enzo e Dino Ferrari",0
+Ferrari,84627.63,2020,"Autodromo Enzo e Dino Ferrari",0
+McLaren,84645.40,2020,"Autodromo Enzo e Dino Ferrari",0
+"Haas F1 Team",84847.06,2020,"Autodromo Enzo e Dino Ferrari",0
+"Red Bull",85233.56,2020,"Autodromo Enzo e Dino Ferrari",0
+AlphaTauri,117578.03,2021,"Autodromo Enzo e Dino Ferrari",0
+Ferrari,117168.79,2021,"Autodromo Enzo e Dino Ferrari",0
+"Alpine F1 Team",117796.17,2021,"Autodromo Enzo e Dino Ferrari",0
+Mercedes,117088.86,2021,"Autodromo Enzo e Dino Ferrari",1
+McLaren,117115.87,2021,"Autodromo Enzo e Dino Ferrari",1
+McLaren,117552.67,2021,"Autodromo Enzo e Dino Ferrari",0
+"Red Bull",117805.54,2021,"Autodromo Enzo e Dino Ferrari",0
+Ferrari,117145.67,2021,"Autodromo Enzo e Dino Ferrari",0
+"Alpine F1 Team",117782.57,2021,"Autodromo Enzo e Dino Ferrari",0
+"Aston Martin",117642.97,2021,"Autodromo Enzo e Dino Ferrari",0
+AlphaTauri,117901.30,2021,"Autodromo Enzo e Dino Ferrari",0
+"Alfa Romeo",118243.98,2021,"Autodromo Enzo e Dino Ferrari",0
+"Red Bull",116739.65,2021,"Autodromo Enzo e Dino Ferrari",1
+"Aston Martin",88871.08,2022,"Autodromo Enzo e Dino Ferrari",0
+"Red Bull",88008.14,2022,"Autodromo Enzo e Dino Ferrari",1
+"Haas F1 Team",88940.41,2022,"Autodromo Enzo e Dino Ferrari",0
+"Red Bull",87745.81,2022,"Autodromo Enzo e Dino Ferrari",1
+Mercedes,88420.51,2022,"Autodromo Enzo e Dino Ferrari",0
+"Alfa Romeo",88431.22,2022,"Autodromo Enzo e Dino Ferrari",0
+Ferrari,88635.84,2022,"Autodromo Enzo e Dino Ferrari",0
+AlphaTauri,88715.81,2022,"Autodromo Enzo e Dino Ferrari",0
+McLaren,88298.73,2022,"Autodromo Enzo e Dino Ferrari",1
+McLaren,87383.83,2015,"Autódromo Hermanos Rodríguez",0
+"Force India",87054.90,2015,"Autódromo Hermanos Rodríguez",0
+Williams,86993.39,2015,"Autódromo Hermanos Rodríguez",0
+"Red Bull",86967.89,2015,"Autódromo Hermanos Rodríguez",0
+"Red Bull",86924.08,2015,"Autódromo Hermanos Rodríguez",0
+Williams,86896.20,2015,"Autódromo Hermanos Rodríguez",1
+Mercedes,86718.20,2015,"Autódromo Hermanos Rodríguez",1
+"Toro Rosso",87186.86,2015,"Autódromo Hermanos Rodríguez",0
+"Force India",87174.38,2015,"Autódromo Hermanos Rodríguez",0
+"Lotus F1",87224.96,2015,"Autódromo Hermanos Rodríguez",0
+"Lotus F1",87233.46,2015,"Autódromo Hermanos Rodríguez",0
+Sauber,87256.59,2015,"Autódromo Hermanos Rodríguez",0
+"Toro Rosso",87377.61,2015,"Autódromo Hermanos Rodríguez",0
+Mercedes,86690.68,2015,"Autódromo Hermanos Rodríguez",1
+Williams,86022.65,2016,"Autódromo Hermanos Rodríguez",0
+"Force India",86030.99,2016,"Autódromo Hermanos Rodríguez",0
+Mercedes,84949.32,2016,"Autódromo Hermanos Rodríguez",1
+Ferrari,85644.76,2016,"Autódromo Hermanos Rodríguez",0
+Mercedes,85066.99,2016,"Autódromo Hermanos Rodríguez",1
+"Red Bull",85243.10,2016,"Autódromo Hermanos Rodríguez",1
+"Red Bull",85249.65,2016,"Autódromo Hermanos Rodríguez",0
+Ferrari,85334.01,2016,"Autódromo Hermanos Rodríguez",0
+"Force India",85778.77,2016,"Autódromo Hermanos Rodríguez",0
+Williams,85873.44,2016,"Autódromo Hermanos Rodríguez",0
+"Red Bull",81500.73,2017,"Autódromo Hermanos Rodríguez",1
+Ferrari,82261.39,2017,"Autódromo Hermanos Rodríguez",1
+Ferrari,82487.75,2017,"Autódromo Hermanos Rodríguez",0
+Mercedes,81777.89,2017,"Autódromo Hermanos Rodríguez",1
+"Red Bull",83223.25,2018,"Autódromo Hermanos Rodríguez",1
+Ferrari,83467.14,2018,"Autódromo Hermanos Rodríguez",1
+Ferrari,83926.27,2018,"Autódromo Hermanos Rodríguez",1
+Mercedes,84332.24,2018,"Autódromo Hermanos Rodríguez",0
+Renault,82870.82,2019,"Autódromo Hermanos Rodríguez",0
+Mercedes,81815.55,2019,"Autódromo Hermanos Rodríguez",1
+Ferrari,81840.42,2019,"Autódromo Hermanos Rodríguez",1
+Mercedes,81865.59,2019,"Autódromo Hermanos Rodríguez",1
+Ferrari,81905.24,2019,"Autódromo Hermanos Rodríguez",0
+"Red Bull",82116.94,2019,"Autódromo Hermanos Rodríguez",0
+"Red Bull",82784.66,2019,"Autódromo Hermanos Rodríguez",0
+"Racing Point",82855.25,2019,"Autódromo Hermanos Rodríguez",0
+"Red Bull",83367.41,2021,"Autódromo Hermanos Rodríguez",1
+Ferrari,84508.77,2021,"Autódromo Hermanos Rodríguez",0
+AlphaTauri,84266.63,2021,"Autódromo Hermanos Rodríguez",0
+"Red Bull",83617.44,2021,"Autódromo Hermanos Rodríguez",1
+Mercedes,83600.58,2021,"Autódromo Hermanos Rodríguez",1
+"Red Bull",83334.21,2022,"Autódromo Hermanos Rodríguez",1
+"Red Bull",83589.10,2022,"Autódromo Hermanos Rodríguez",1
+Mercedes,84030.42,2022,"Autódromo Hermanos Rodríguez",0
+Ferrari,84152.85,2022,"Autódromo Hermanos Rodríguez",0
+Ferrari,84302.86,2022,"Autódromo Hermanos Rodríguez",0
+Mercedes,83548.10,2022,"Autódromo Hermanos Rodríguez",1
+Mercedes,82157.88,2020,"Autódromo Internacional do Algarve",1
+Mercedes,81770.12,2020,"Autódromo Internacional do Algarve",1
+"Red Bull",82292.97,2020,"Autódromo Internacional do Algarve",1
+Ferrari,82759.70,2020,"Autódromo Internacional do Algarve",0
+"Alpine F1 Team",86896.52,2021,"Autódromo Internacional do Algarve",0
+Ferrari,86775.79,2021,"Autódromo Internacional do Algarve",0
+McLaren,86708.94,2021,"Autódromo Internacional do Algarve",0
+"Red Bull",86532.67,2021,"Autódromo Internacional do Algarve",0
+Mercedes,86438.65,2021,"Autódromo Internacional do Algarve",1
+"Red Bull",86372.26,2021,"Autódromo Internacional do Algarve",1
+Mercedes,85930.62,2021,"Autódromo Internacional do Algarve",1
+Ferrari,87126.91,2021,"Autódromo Internacional do Algarve",0
+AlphaTauri,87089.15,2021,"Autódromo Internacional do Algarve",0
+McLaren,87072.58,2021,"Autódromo Internacional do Algarve",0
+"Alpine F1 Team",85958.02,2021,"Autódromo Internacional do Algarve",0
+AlphaTauri,142318.92,2020,"Autodromo Internazionale del Mugello",0
+Williams,142499.39,2020,"Autodromo Internazionale del Mugello",0
+Ferrari,142458.36,2020,"Autodromo Internazionale del Mugello",0
+"Alfa Romeo",142454.75,2020,"Autodromo Internazionale del Mugello",0
+"Red Bull",142086.85,2020,"Autodromo Internazionale del Mugello",1
+Renault,142126.73,2020,"Autodromo Internazionale del Mugello",0
+"Racing Point",142215.42,2020,"Autodromo Internazionale del Mugello",0
+Ferrari,142430.59,2020,"Autodromo Internazionale del Mugello",0
+McLaren,142270.22,2020,"Autodromo Internazionale del Mugello",0
+Mercedes,141950.17,2020,"Autodromo Internazionale del Mugello",1
+Mercedes,142032.88,2020,"Autodromo Internazionale del Mugello",1
+"Haas F1 Team",142662.64,2020,"Autodromo Internazionale del Mugello",0
+Mercedes,76112.85,2014,"Autódromo José Carlos Pace",1
+Williams,76670.23,2014,"Autódromo José Carlos Pace",1
+McLaren,76777.65,2014,"Autódromo José Carlos Pace",0
+"Red Bull",76816.55,2014,"Autódromo José Carlos Pace",0
+Ferrari,76964.24,2014,"Autódromo José Carlos Pace",0
+Ferrari,76989.93,2014,"Autódromo José Carlos Pace",0
+"Force India",76992.80,2014,"Autódromo José Carlos Pace",0
+McLaren,77079.44,2014,"Autódromo José Carlos Pace",0
+Mercedes,76092.32,2014,"Autódromo José Carlos Pace",1
+Mercedes,77029.44,2015,"Autódromo José Carlos Pace",1
+Mercedes,77138.68,2015,"Autódromo José Carlos Pace",1
+Ferrari,77230.06,2015,"Autódromo José Carlos Pace",1
+Ferrari,77699.06,2015,"Autódromo José Carlos Pace",0
+"Red Bull",153279.10,2016,"Autódromo José Carlos Pace",1
+"Force India",153333.54,2016,"Autódromo José Carlos Pace",0
+Mercedes,153137.89,2016,"Autódromo José Carlos Pace",1
+Mercedes,152976.55,2016,"Autódromo José Carlos Pace",1
+Renault,153702.68,2016,"Autódromo José Carlos Pace",0
+McLaren,154131.39,2016,"Autódromo José Carlos Pace",0
+"Manor Marussia",153828.63,2016,"Autódromo José Carlos Pace",0
+"Force India",153396.65,2016,"Autódromo José Carlos Pace",0
+Ferrari,153347.45,2016,"Autódromo José Carlos Pace",0
+"Toro Rosso",153387.25,2016,"Autódromo José Carlos Pace",0
+"Red Bull",153405.93,2016,"Autódromo José Carlos Pace",0
+Sauber,153576.83,2016,"Autódromo José Carlos Pace",0
+McLaren,153602.35,2016,"Autódromo José Carlos Pace",0
+Williams,153614.46,2016,"Autódromo José Carlos Pace",0
+"Manor Marussia",153621.75,2016,"Autódromo José Carlos Pace",0
+"Toro Rosso",153697.56,2016,"Autódromo José Carlos Pace",0
+McLaren,78248.24,2017,"Autódromo José Carlos Pace",0
+Williams,78241.46,2017,"Autódromo José Carlos Pace",0
+"Red Bull",77957.08,2017,"Autódromo José Carlos Pace",0
+"Red Bull",77735.24,2017,"Autódromo José Carlos Pace",0
+Ferrari,77271.30,2017,"Autódromo José Carlos Pace",1
+Mercedes,77348.31,2017,"Autódromo José Carlos Pace",0
+Ferrari,77336.08,2017,"Autódromo José Carlos Pace",1
+Mercedes,77310.20,2017,"Autódromo José Carlos Pace",1
+"Force India",78250.17,2017,"Autódromo José Carlos Pace",0
+"Red Bull",73721.96,2018,"Autódromo José Carlos Pace",0
+Ferrari,73715.92,2018,"Autódromo José Carlos Pace",1
+"Haas F1 Team",74393.28,2018,"Autódromo José Carlos Pace",0
+"Haas F1 Team",74370.37,2018,"Autódromo José Carlos Pace",0
+Sauber,74271.34,2018,"Autódromo José Carlos Pace",0
+"Red Bull",73669.51,2018,"Autódromo José Carlos Pace",1
+Ferrari,74029.06,2018,"Autódromo José Carlos Pace",0
+Mercedes,73971.96,2018,"Autódromo José Carlos Pace",0
+Mercedes,73648.82,2018,"Autódromo José Carlos Pace",1
+"Alfa Romeo",78941.96,2019,"Autódromo José Carlos Pace",0
+"Alfa Romeo",78931.41,2019,"Autódromo José Carlos Pace",0
+McLaren,78923.58,2019,"Autódromo José Carlos Pace",1
+"Toro Rosso",78883.87,2019,"Autódromo José Carlos Pace",1
+"Red Bull",78798.28,2019,"Autódromo José Carlos Pace",1
+Renault,79052.63,2019,"Autódromo José Carlos Pace",0
+"Red Bull",79008.52,2019,"Autódromo José Carlos Pace",0
+"Haas F1 Team",78998.94,2019,"Autódromo José Carlos Pace",0
+Williams,78989.82,2019,"Autódromo José Carlos Pace",0
+"Haas F1 Team",78977.61,2019,"Autódromo José Carlos Pace",0
+"Toro Rosso",78966.32,2019,"Autódromo José Carlos Pace",0
+"Racing Point",78960.66,2019,"Autódromo José Carlos Pace",0
+McLaren,78956.08,2019,"Autódromo José Carlos Pace",0
+Mercedes,78955.17,2019,"Autódromo José Carlos Pace",0
+Renault,78946.75,2019,"Autódromo José Carlos Pace",0
+"Red Bull",78630.86,2021,"Autódromo José Carlos Pace",0
+Ferrari,78765.75,2021,"Autódromo José Carlos Pace",0
+Ferrari,78798.18,2021,"Autódromo José Carlos Pace",0
+Mercedes,78259.54,2021,"Autódromo José Carlos Pace",1
+"Red Bull",78216.15,2021,"Autódromo José Carlos Pace",1
+Mercedes,78068.32,2021,"Autódromo José Carlos Pace",1
+"Red Bull",83494.70,2022,"Autódromo José Carlos Pace",0
+"Red Bull",83438.03,2022,"Autódromo José Carlos Pace",0
+Ferrari,83415.28,2022,"Autódromo José Carlos Pace",0
+Ferrari,83353.45,2022,"Autódromo José Carlos Pace",1
+"Alpine F1 Team",83431.06,2022,"Autódromo José Carlos Pace",0
+Mercedes,83317.93,2022,"Autódromo José Carlos Pace",1
+Williams,83818.06,2022,"Autódromo José Carlos Pace",0
+Mercedes,83296.39,2022,"Autódromo José Carlos Pace",1
+Williams,83803.66,2022,"Autódromo José Carlos Pace",0
+AlphaTauri,83745.23,2022,"Autódromo José Carlos Pace",0
+"Haas F1 Team",83717.51,2022,"Autódromo José Carlos Pace",0
+"Alfa Romeo",83709.42,2022,"Autódromo José Carlos Pace",0
+"Aston Martin",83665.17,2022,"Autódromo José Carlos Pace",0
+"Aston Martin",83628.11,2022,"Autódromo José Carlos Pace",0
+"Alfa Romeo",83614.03,2022,"Autódromo José Carlos Pace",0
+"Alpine F1 Team",83559.63,2022,"Autódromo José Carlos Pace",0
+Mercedes,89627.09,2014,"Autodromo Nazionale di Monza",1
+Mercedes,89687.00,2014,"Autodromo Nazionale di Monza",1
+Williams,90396.64,2014,"Autodromo Nazionale di Monza",0
+"Red Bull",90576.32,2014,"Autodromo Nazionale di Monza",0
+Williams,90099.28,2014,"Autodromo Nazionale di Monza",1
+McLaren,90816.96,2014,"Autodromo Nazionale di Monza",0
+Ferrari,90825.87,2014,"Autodromo Nazionale di Monza",0
+"Red Bull",90758.51,2014,"Autodromo Nazionale di Monza",0
+"Force India",90806.68,2014,"Autodromo Nazionale di Monza",0
+"Toro Rosso",91006.21,2014,"Autodromo Nazionale di Monza",0
+"Force India",90997.02,2014,"Autodromo Nazionale di Monza",0
+"Toro Rosso",90970.19,2014,"Autodromo Nazionale di Monza",0
+McLaren,90875.60,2014,"Autodromo Nazionale di Monza",0
+Ferrari,89614.11,2015,"Autodromo Nazionale di Monza",0
+Williams,89220.45,2015,"Autodromo Nazionale di Monza",0
+Mercedes,88314.87,2015,"Autodromo Nazionale di Monza",1
+Ferrari,88787.36,2015,"Autodromo Nazionale di Monza",1
+Williams,89213.64,2015,"Autodromo Nazionale di Monza",1
+"Force India",89688.13,2015,"Autodromo Nazionale di Monza",0
+"Red Bull",88554.42,2016,"Autodromo Nazionale di Monza",0
+"Force India",89183.87,2016,"Autodromo Nazionale di Monza",0
+"Force India",88925.34,2016,"Autodromo Nazionale di Monza",0
+Ferrari,88219.81,2016,"Autodromo Nazionale di Monza",0
+"Red Bull",88723.11,2016,"Autodromo Nazionale di Monza",0
+Williams,88937.85,2016,"Autodromo Nazionale di Monza",0
+Ferrari,88095.83,2016,"Autodromo Nazionale di Monza",1
+Williams,88662.34,2016,"Autodromo Nazionale di Monza",0
+Mercedes,87984.13,2016,"Autodromo Nazionale di Monza",1
+Mercedes,87699.79,2016,"Autodromo Nazionale di Monza",1
+Mercedes,85515.32,2017,"Autodromo Nazionale di Monza",1
+Mercedes,85599.68,2017,"Autodromo Nazionale di Monza",1
+Ferrari,86200.55,2017,"Autodromo Nazionale di Monza",1
+"Red Bull",86276.36,2017,"Autodromo Nazionale di Monza",0
+Ferrari,86648.94,2017,"Autodromo Nazionale di Monza",0
+"Force India",86864.91,2017,"Autodromo Nazionale di Monza",0
+Williams,86914.49,2017,"Autodromo Nazionale di Monza",0
+"Force India",86935.62,2017,"Autodromo Nazionale di Monza",0
+Williams,86927.28,2017,"Autodromo Nazionale di Monza",0
+"Force India",88155.57,2018,"Autodromo Nazionale di Monza",0
+"Red Bull",87409.28,2018,"Autodromo Nazionale di Monza",0
+Ferrari,87370.47,2018,"Autodromo Nazionale di Monza",0
+Mercedes,87331.13,2018,"Autodromo Nazionale di Monza",1
+Ferrari,87229.98,2018,"Autodromo Nazionale di Monza",1
+Mercedes,87065.74,2018,"Autodromo Nazionale di Monza",1
+"Force India",88172.87,2018,"Autodromo Nazionale di Monza",0
+Renault,88540.08,2018,"Autodromo Nazionale di Monza",0
+"Red Bull",86814.28,2019,"Autodromo Nazionale di Monza",0
+Ferrari,85408.77,2019,"Autodromo Nazionale di Monza",1
+Mercedes,85424.53,2019,"Autodromo Nazionale di Monza",1
+Mercedes,86072.91,2019,"Autodromo Nazionale di Monza",1
+Renault,86267.55,2019,"Autodromo Nazionale di Monza",0
+Renault,86506.23,2019,"Autodromo Nazionale di Monza",0
+"Red Bull",86527.92,2019,"Autodromo Nazionale di Monza",0
+"Racing Point",86801.26,2019,"Autodromo Nazionale di Monza",0
+"Red Bull",121954.51,2020,"Autodromo Nazionale di Monza",0
+"Racing Point",121684.53,2020,"Autodromo Nazionale di Monza",0
+Williams,121866.64,2020,"Autodromo Nazionale di Monza",0
+"Haas F1 Team",121909.81,2020,"Autodromo Nazionale di Monza",0
+"Alfa Romeo",121931.47,2020,"Autodromo Nazionale di Monza",0
+Williams,121936.77,2020,"Autodromo Nazionale di Monza",0
+"Alfa Romeo",122287.83,2020,"Autodromo Nazionale di Monza",0
+McLaren,121359.55,2020,"Autodromo Nazionale di Monza",0
+"Racing Point",121309.70,2020,"Autodromo Nazionale di Monza",1
+McLaren,121254.17,2020,"Autodromo Nazionale di Monza",1
+Mercedes,121380.45,2020,"Autodromo Nazionale di Monza",0
+Renault,121404.66,2020,"Autodromo Nazionale di Monza",0
+Mercedes,121571.72,2020,"Autodromo Nazionale di Monza",0
+Renault,121599.00,2020,"Autodromo Nazionale di Monza",0
+AlphaTauri,121665.36,2020,"Autodromo Nazionale di Monza",0
+AlphaTauri,121246.34,2020,"Autodromo Nazionale di Monza",1
+"Haas F1 Team",93687.79,2021,"Autodromo Nazionale di Monza",0
+McLaren,92723.87,2021,"Autodromo Nazionale di Monza",1
+McLaren,92756.83,2021,"Autodromo Nazionale di Monza",1
+"Alfa Romeo",93285.55,2021,"Autodromo Nazionale di Monza",0
+"Alpine F1 Team",93117.60,2021,"Autodromo Nazionale di Monza",0
+Williams,93171.85,2021,"Autodromo Nazionale di Monza",0
+"Aston Martin",93188.42,2021,"Autodromo Nazionale di Monza",0
+"Alfa Romeo",93237.38,2021,"Autodromo Nazionale di Monza",0
+"Alpine F1 Team",93048.42,2021,"Autodromo Nazionale di Monza",0
+Mercedes,92816.72,2021,"Autodromo Nazionale di Monza",1
+Ferrari,92861.77,2021,"Autodromo Nazionale di Monza",0
+Ferrari,92922.64,2021,"Autodromo Nazionale di Monza",0
+"Aston Martin",93022.06,2021,"Autodromo Nazionale di Monza",0
+Williams,93096.36,2021,"Autodromo Nazionale di Monza",0
+"Red Bull",92888.45,2021,"Autodromo Nazionale di Monza",0
+"Red Bull",91200.04,2022,"Autodromo Nazionale di Monza",0
+Ferrari,91180.60,2022,"Autodromo Nazionale di Monza",0
+Mercedes,91149.36,2022,"Autodromo Nazionale di Monza",1
+McLaren,91202.23,2022,"Autodromo Nazionale di Monza",0
+Ferrari,91131.26,2022,"Autodromo Nazionale di Monza",1
+AlphaTauri,91205.79,2022,"Autodromo Nazionale di Monza",0
+Mercedes,91186.62,2022,"Autodromo Nazionale di Monza",0
+"Alpine F1 Team",91242.15,2022,"Autodromo Nazionale di Monza",0
+Williams,91219.49,2022,"Autodromo Nazionale di Monza",0
+"Alfa Romeo",91234.36,2022,"Autodromo Nazionale di Monza",0
+"Red Bull",91085.11,2022,"Autodromo Nazionale di Monza",1
+"Haas F1 Team",91246.42,2022,"Autodromo Nazionale di Monza",0
+Mercedes,104960.40,2014,"Bahrain International Circuit",1
+"Toro Rosso",105685.70,2014,"Bahrain International Circuit",0
+"Red Bull",105390.04,2014,"Bahrain International Circuit",0
+"Force India",105382.63,2014,"Bahrain International Circuit",1
+Caterham,106502.51,2014,"Bahrain International Circuit",0
+Mercedes,104979.44,2014,"Bahrain International Circuit",1
+"Lotus F1",106062.21,2014,"Bahrain International Circuit",0
+Marussia,106011.44,2014,"Bahrain International Circuit",0
+"Lotus F1",105717.30,2014,"Bahrain International Circuit",0
+Ferrari,105547.46,2014,"Bahrain International Circuit",0
+Ferrari,105532.25,2014,"Bahrain International Circuit",0
+Williams,105519.63,2014,"Bahrain International Circuit",0
+Williams,105508.91,2014,"Bahrain International Circuit",0
+"Red Bull",105484.60,2014,"Bahrain International Circuit",0
+"Force India",105463.11,2014,"Bahrain International Circuit",0
+"Red Bull",101185.26,2015,"Bahrain International Circuit",0
+Mercedes,100101.91,2015,"Bahrain International Circuit",1
+"Lotus F1",101588.98,2015,"Bahrain International Circuit",0
+Mercedes,100207.75,2015,"Bahrain International Circuit",1
+Ferrari,100873.65,2015,"Bahrain International Circuit",0
+Ferrari,100161.21,2015,"Bahrain International Circuit",1
+Williams,100855.54,2015,"Bahrain International Circuit",0
+"Red Bull",99599.82,2016,"Bahrain International Circuit",0
+Mercedes,99032.35,2016,"Bahrain International Circuit",1
+Mercedes,98503.44,2016,"Bahrain International Circuit",1
+Ferrari,98683.82,2016,"Bahrain International Circuit",1
+"Toro Rosso",99923.25,2016,"Bahrain International Circuit",0
+"Haas F1 Team",99877.11,2016,"Bahrain International Circuit",0
+Renault,100237.93,2017,"Bahrain International Circuit",0
+"Red Bull",99521.40,2017,"Bahrain International Circuit",0
+Ferrari,99225.42,2017,"Bahrain International Circuit",0
+Mercedes,98947.96,2017,"Bahrain International Circuit",1
+"Force India",99929.47,2017,"Bahrain International Circuit",0
+Mercedes,99188.96,2017,"Bahrain International Circuit",1
+"Force India",100510.26,2017,"Bahrain International Circuit",0
+"Haas F1 Team",100144.54,2017,"Bahrain International Circuit",0
+Ferrari,98831.12,2017,"Bahrain International Circuit",1
+Williams,99784.21,2017,"Bahrain International Circuit",0
+Ferrari,96876.14,2018,"Bahrain International Circuit",1
+Mercedes,96888.40,2018,"Bahrain International Circuit",1
+Mercedes,96990.39,2018,"Bahrain International Circuit",1
+"Toro Rosso",97967.96,2018,"Bahrain International Circuit",0
+"Haas F1 Team",98192.74,2018,"Bahrain International Circuit",0
+Renault,98613.40,2018,"Bahrain International Circuit",0
+Mercedes,99320.96,2019,"Bahrain International Circuit",1
+Mercedes,99373.25,2019,"Bahrain International Circuit",1
+Ferrari,99428.53,2019,"Bahrain International Circuit",1
+"Alfa Romeo",100153.77,2019,"Bahrain International Circuit",0
+Ferrari,99953.74,2019,"Bahrain International Circuit",0
+McLaren,100123.67,2019,"Bahrain International Circuit",0
+"Red Bull",100340.16,2019,"Bahrain International Circuit",0
+"Toro Rosso",100420.91,2019,"Bahrain International Circuit",0
+"Racing Point",100438.44,2019,"Bahrain International Circuit",0
+"Alfa Romeo",100454.28,2019,"Bahrain International Circuit",0
+"Red Bull",99433.39,2019,"Bahrain International Circuit",0
+"Red Bull",63091.45,2020,"Bahrain International Circuit",0
+Mercedes,189254.65,2020,"Bahrain International Circuit",1
+"Haas F1 Team",63356.00,2020,"Bahrain International Circuit",0
+McLaren,189461.44,2020,"Bahrain International Circuit",0
+Renault,189594.44,2020,"Bahrain International Circuit",0
+Mercedes,189599.91,2020,"Bahrain International Circuit",0
+Renault,189654.70,2020,"Bahrain International Circuit",0
+"Alfa Romeo",63232.95,2020,"Bahrain International Circuit",0
+"Racing Point",62932.34,2020,"Bahrain International Circuit",1
+"Haas F1 Team",63304.41,2020,"Bahrain International Circuit",0
+Renault,63085.56,2020,"Bahrain International Circuit",0
+"Alfa Romeo",63209.48,2020,"Bahrain International Circuit",0
+"Racing Point",63068.77,2020,"Bahrain International Circuit",1
+"Red Bull",189395.09,2020,"Bahrain International Circuit",1
+Renault,63053.24,2020,"Bahrain International Circuit",1
+AlphaTauri,63099.40,2020,"Bahrain International Circuit",0
+Williams,63319.40,2020,"Bahrain International Circuit",0
+"Red Bull",189276.65,2020,"Bahrain International Circuit",1
+Ferrari,63192.24,2020,"Bahrain International Circuit",0
+McLaren,63076.94,2020,"Bahrain International Circuit",0
+McLaren,63156.95,2020,"Bahrain International Circuit",0
+Mercedes,63145.63,2020,"Bahrain International Circuit",0
+Mercedes,63109.23,2020,"Bahrain International Circuit",0
+McLaren,189453.54,2020,"Bahrain International Circuit",0
+AlphaTauri,189464.16,2020,"Bahrain International Circuit",0
+AlphaTauri,63168.29,2020,"Bahrain International Circuit",0
+Ferrari,99696.20,2021,"Bahrain International Circuit",0
+Ferrari,99839.23,2021,"Bahrain International Circuit",0
+AlphaTauri,100171.23,2021,"Bahrain International Circuit",0
+"Alfa Romeo",100227.88,2021,"Bahrain International Circuit",0
+Mercedes,98641.02,2021,"Bahrain International Circuit",1
+"Red Bull",98654.32,2021,"Bahrain International Circuit",1
+Mercedes,99308.57,2021,"Bahrain International Circuit",1
+McLaren,99470.77,2021,"Bahrain International Circuit",0
+"Aston Martin",100189.46,2021,"Bahrain International Circuit",0
+McLaren,99819.66,2021,"Bahrain International Circuit",0
+"Red Bull",99570.43,2021,"Bahrain International Circuit",0
+Williams,103778.58,2022,"Bahrain International Circuit",0
+"Haas F1 Team",102953.30,2022,"Bahrain International Circuit",0
+Mercedes,102891.14,2022,"Bahrain International Circuit",0
+Mercedes,102864.19,2022,"Bahrain International Circuit",1
+Ferrari,102792.67,2022,"Bahrain International Circuit",1
+"Aston Martin",103814.26,2022,"Bahrain International Circuit",0
+"Alpine F1 Team",103035.21,2022,"Bahrain International Circuit",0
+McLaren,103682.79,2022,"Bahrain International Circuit",0
+Williams,103640.63,2022,"Bahrain International Circuit",0
+"Aston Martin",103499.25,2022,"Bahrain International Circuit",0
+"Haas F1 Team",103265.93,2022,"Bahrain International Circuit",0
+"Alfa Romeo",103099.09,2022,"Bahrain International Circuit",0
+"Alpine F1 Team",103087.26,2022,"Bahrain International Circuit",0
+AlphaTauri,103052.11,2022,"Bahrain International Circuit",0
+"Alfa Romeo",102977.25,2022,"Bahrain International Circuit",0
+Ferrari,102694.46,2022,"Bahrain International Circuit",1
+McLaren,103658.93,2022,"Bahrain International Circuit",0
+Ferrari,109589.45,2016,"Baku City Circuit",1
+McLaren,111317.31,2016,"Baku City Circuit",0
+Mercedes,109262.08,2016,"Baku City Circuit",1
+Williams,110936.10,2016,"Baku City Circuit",0
+"Force India",110785.76,2016,"Baku City Circuit",0
+"Red Bull",110648.27,2016,"Baku City Circuit",0
+"Red Bull",110619.51,2016,"Baku City Circuit",0
+Williams,110455.92,2016,"Baku City Circuit",0
+Mercedes,110366.69,2016,"Baku City Circuit",0
+Ferrari,109911.14,2016,"Baku City Circuit",0
+"Force India",109757.00,2016,"Baku City Circuit",1
+McLaren,146963.22,2017,"Baku City Circuit",0
+Sauber,147542.47,2017,"Baku City Circuit",0
+Sauber,147595.43,2017,"Baku City Circuit",0
+"Force India",146389.63,2017,"Baku City Circuit",0
+Mercedes,145916.88,2017,"Baku City Circuit",0
+Williams,145874.16,2017,"Baku City Circuit",1
+Ferrari,145912.73,2017,"Baku City Circuit",0
+Mercedes,145872.10,2017,"Baku City Circuit",1
+McLaren,147602.61,2017,"Baku City Circuit",0
+"Red Bull",145795.55,2017,"Baku City Circuit",1
+"Toro Rosso",146764.18,2017,"Baku City Circuit",0
+"Haas F1 Team",146614.24,2017,"Baku City Circuit",0
+Renault,122192.27,2018,"Baku City Circuit",0
+Ferrari,122149.41,2018,"Baku City Circuit",0
+"Force India",122123.82,2018,"Baku City Circuit",1
+Ferrari,122093.16,2018,"Baku City Circuit",1
+Mercedes,122044.92,2018,"Baku City Circuit",1
+McLaren,122259.25,2018,"Baku City Circuit",0
+Williams,122290.92,2018,"Baku City Circuit",0
+McLaren,122322.41,2018,"Baku City Circuit",0
+"Toro Rosso",122398.45,2018,"Baku City Circuit",0
+Sauber,122224.49,2018,"Baku City Circuit",0
+Sauber,122407.90,2018,"Baku City Circuit",0
+"Toro Rosso",122529.63,2018,"Baku City Circuit",0
+"Haas F1 Team",122842.24,2018,"Baku City Circuit",0
+Mercedes,108126.78,2019,"Baku City Circuit",1
+Mercedes,108096.90,2019,"Baku City Circuit",1
+"Racing Point",110132.51,2019,"Baku City Circuit",0
+McLaren,110062.94,2019,"Baku City Circuit",0
+McLaren,109740.55,2019,"Baku City Circuit",0
+"Racing Point",109595.25,2019,"Baku City Circuit",0
+Ferrari,109451.94,2019,"Baku City Circuit",0
+"Red Bull",108439.90,2019,"Baku City Circuit",0
+Ferrari,108327.08,2019,"Baku City Circuit",1
+"Alpine F1 Team",157309.65,2021,"Baku City Circuit",0
+McLaren,157277.73,2021,"Baku City Circuit",0
+Ferrari,157259.57,2021,"Baku City Circuit",0
+AlphaTauri,157238.67,2021,"Baku City Circuit",1
+"Red Bull",157184.51,2021,"Baku City Circuit",1
+AlphaTauri,157314.39,2021,"Baku City Circuit",0
+"Haas F1 Team",157465.20,2021,"Baku City Circuit",0
+Mercedes,157530.94,2021,"Baku City Circuit",0
+"Haas F1 Team",157463.75,2021,"Baku City Circuit",0
+Mercedes,157405.37,2021,"Baku City Circuit",0
+"Alfa Romeo",157385.57,2021,"Baku City Circuit",0
+"Alfa Romeo",157372.27,2021,"Baku City Circuit",0
+Ferrari,157335.67,2021,"Baku City Circuit",0
+McLaren,157358.51,2021,"Baku City Circuit",0
+"Aston Martin",157211.67,2021,"Baku City Circuit",1
+Williams,158035.08,2021,"Baku City Circuit",0
+McLaren,112512.71,2022,"Baku City Circuit",0
+McLaren,112519.55,2022,"Baku City Circuit",0
+"Aston Martin",112353.73,2022,"Baku City Circuit",0
+"Alpine F1 Team",112825.98,2022,"Baku City Circuit",0
+Mercedes,112110.20,2022,"Baku City Circuit",0
+"Alpine F1 Team",112441.90,2022,"Baku City Circuit",0
+AlphaTauri,112220.39,2022,"Baku City Circuit",0
+Mercedes,111606.59,2022,"Baku City Circuit",1
+"Red Bull",111113.02,2022,"Baku City Circuit",1
+"Red Bull",110704.73,2022,"Baku City Circuit",1
+Ferrari,93225.73,2014,"Circuit de Barcelona-Catalunya",0
+Mercedes,91896.29,2014,"Circuit de Barcelona-Catalunya",1
+Mercedes,91905.92,2014,"Circuit de Barcelona-Catalunya",1
+"Red Bull",92638.92,2014,"Circuit de Barcelona-Catalunya",1
+"Red Bull",93058.44,2014,"Circuit de Barcelona-Catalunya",0
+Williams,93097.70,2014,"Circuit de Barcelona-Catalunya",0
+Mercedes,92274.33,2015,"Circuit de Barcelona-Catalunya",1
+Ferrari,92695.41,2015,"Circuit de Barcelona-Catalunya",1
+Williams,92905.64,2015,"Circuit de Barcelona-Catalunya",0
+Ferrari,92917.53,2015,"Circuit de Barcelona-Catalunya",0
+Williams,93240.44,2015,"Circuit de Barcelona-Catalunya",0
+Mercedes,92008.41,2015,"Circuit de Barcelona-Catalunya",1
+Williams,93647.33,2016,"Circuit de Barcelona-Catalunya",0
+"Force India",93629.62,2016,"Circuit de Barcelona-Catalunya",0
+Williams,93110.42,2016,"Circuit de Barcelona-Catalunya",0
+"Red Bull",93090.41,2016,"Circuit de Barcelona-Catalunya",0
+Ferrari,92509.06,2016,"Circuit de Barcelona-Catalunya",1
+Ferrari,92433.83,2016,"Circuit de Barcelona-Catalunya",1
+"Red Bull",92424.50,2016,"Circuit de Barcelona-Catalunya",1
+"Toro Rosso",93354.73,2016,"Circuit de Barcelona-Catalunya",0
+"Red Bull",88368.44,2017,"Circuit de Barcelona-Catalunya",1
+Mercedes,87219.65,2017,"Circuit de Barcelona-Catalunya",1
+Ferrari,87272.53,2017,"Circuit de Barcelona-Catalunya",1
+"Red Bull",87576.21,2018,"Circuit de Barcelona-Catalunya",0
+Ferrari,87235.70,2018,"Circuit de Barcelona-Catalunya",0
+"Red Bull",87224.92,2018,"Circuit de Barcelona-Catalunya",1
+Mercedes,87129.77,2018,"Circuit de Barcelona-Catalunya",1
+Mercedes,86817.76,2018,"Circuit de Barcelona-Catalunya",1
+"Alfa Romeo",87761.30,2019,"Circuit de Barcelona-Catalunya",0
+Mercedes,87127.92,2019,"Circuit de Barcelona-Catalunya",1
+Mercedes,87189.65,2019,"Circuit de Barcelona-Catalunya",1
+"Alfa Romeo",87850.52,2019,"Circuit de Barcelona-Catalunya",0
+"Racing Point",87838.18,2019,"Circuit de Barcelona-Catalunya",0
+Renault,87722.48,2019,"Circuit de Barcelona-Catalunya",0
+Renault,87684.86,2019,"Circuit de Barcelona-Catalunya",0
+"Toro Rosso",87664.97,2019,"Circuit de Barcelona-Catalunya",0
+"Haas F1 Team",87652.79,2019,"Circuit de Barcelona-Catalunya",0
+"Toro Rosso",87628.77,2019,"Circuit de Barcelona-Catalunya",0
+McLaren,87617.95,2019,"Circuit de Barcelona-Catalunya",0
+"Haas F1 Team",87554.58,2019,"Circuit de Barcelona-Catalunya",0
+"Red Bull",87424.53,2019,"Circuit de Barcelona-Catalunya",0
+Ferrari,87330.36,2019,"Circuit de Barcelona-Catalunya",0
+Ferrari,87266.82,2019,"Circuit de Barcelona-Catalunya",0
+"Red Bull",87244.27,2019,"Circuit de Barcelona-Catalunya",1
+Mercedes,84091.38,2020,"Circuit de Barcelona-Catalunya",1
+"Red Bull",83779.64,2020,"Circuit de Barcelona-Catalunya",1
+Mercedes,83413.32,2020,"Circuit de Barcelona-Catalunya",1
+McLaren,85779.52,2021,"Circuit de Barcelona-Catalunya",0
+Ferrari,85793.18,2021,"Circuit de Barcelona-Catalunya",0
+"Red Bull",85626.53,2021,"Circuit de Barcelona-Catalunya",0
+Ferrari,85489.33,2021,"Circuit de Barcelona-Catalunya",0
+Mercedes,85065.00,2021,"Circuit de Barcelona-Catalunya",1
+"Red Bull",84901.83,2021,"Circuit de Barcelona-Catalunya",1
+Mercedes,84661.82,2021,"Circuit de Barcelona-Catalunya",1
+Mercedes,88990.94,2022,"Circuit de Barcelona-Catalunya",1
+"Alfa Romeo",89400.77,2022,"Circuit de Barcelona-Catalunya",0
+Mercedes,89318.32,2022,"Circuit de Barcelona-Catalunya",0
+Ferrari,89177.02,2022,"Circuit de Barcelona-Catalunya",0
+"Red Bull",88690.11,2022,"Circuit de Barcelona-Catalunya",1
+"Red Bull",88492.05,2022,"Circuit de Barcelona-Catalunya",1
+McLaren,89753.18,2022,"Circuit de Barcelona-Catalunya",0
+"Alpine F1 Team",89634.42,2022,"Circuit de Barcelona-Catalunya",0
+Mercedes,84318.86,2014,"Circuit de Monaco",1
+"Red Bull",84324.04,2014,"Circuit de Monaco",1
+Ferrari,84616.83,2014,"Circuit de Monaco",0
+Mercedes,84200.78,2014,"Circuit de Monaco",1
+"Toro Rosso",84403.54,2015,"Circuit de Monaco",0
+"Red Bull",84256.77,2015,"Circuit de Monaco",0
+"Force India",84418.62,2015,"Circuit de Monaco",0
+Williams,84669.35,2015,"Circuit de Monaco",0
+Sauber,84481.78,2015,"Circuit de Monaco",0
+Sauber,84385.21,2015,"Circuit de Monaco",0
+McLaren,84288.24,2015,"Circuit de Monaco",0
+"Force India",84274.78,2015,"Circuit de Monaco",0
+Ferrari,84266.22,2015,"Circuit de Monaco",0
+"Red Bull",84235.71,2015,"Circuit de Monaco",0
+Mercedes,84159.91,2015,"Circuit de Monaco",1
+"Lotus F1",84446.60,2015,"Circuit de Monaco",0
+Mercedes,84082.31,2015,"Circuit de Monaco",1
+Ferrari,84139.82,2015,"Circuit de Monaco",1
+McLaren,93002.68,2016,"Circuit de Monaco",0
+"Force India",93104.26,2016,"Circuit de Monaco",0
+Mercedes,93107.99,2016,"Circuit de Monaco",0
+Ferrari,92115.12,2016,"Circuit de Monaco",0
+"Red Bull",92004.94,2016,"Circuit de Monaco",1
+Mercedes,91911.96,2016,"Circuit de Monaco",1
+"Force India",92089.21,2016,"Circuit de Monaco",1
+Ferrari,80608.78,2017,"Circuit de Monaco",1
+Ferrari,80568.46,2017,"Circuit de Monaco",1
+"Toro Rosso",80722.79,2017,"Circuit de Monaco",0
+Mercedes,80639.19,2017,"Circuit de Monaco",0
+"Red Bull",80647.94,2017,"Circuit de Monaco",0
+Mercedes,80771.04,2017,"Circuit de Monaco",0
+"Haas F1 Team",80801.15,2017,"Circuit de Monaco",0
+Williams,80817.76,2017,"Circuit de Monaco",0
+"Haas F1 Team",80843.37,2017,"Circuit de Monaco",0
+Renault,80859.96,2017,"Circuit de Monaco",0
+"Force India",80872.63,2017,"Circuit de Monaco",0
+"Force India",81069.60,2017,"Circuit de Monaco",0
+"Red Bull",80616.47,2017,"Circuit de Monaco",1
+Sauber,80059.88,2018,"Circuit de Monaco",0
+"Red Bull",79164.19,2018,"Circuit de Monaco",1
+"Haas F1 Team",80123.46,2018,"Circuit de Monaco",0
+Renault,79482.64,2018,"Circuit de Monaco",0
+"Toro Rosso",79476.13,2018,"Circuit de Monaco",0
+"Force India",79467.62,2018,"Circuit de Monaco",0
+"Force India",80067.54,2018,"Circuit de Monaco",0
+"Red Bull",79488.77,2018,"Circuit de Monaco",0
+Mercedes,79405.50,2018,"Circuit de Monaco",0
+Ferrari,79396.59,2018,"Circuit de Monaco",0
+Mercedes,79382.31,2018,"Circuit de Monaco",1
+Ferrari,79258.24,2018,"Circuit de Monaco",1
+Renault,80048.97,2018,"Circuit de Monaco",0
+"Red Bull",79722.86,2019,"Circuit de Monaco",0
+"Red Bull",79666.33,2019,"Circuit de Monaco",0
+Mercedes,79635.88,2019,"Circuit de Monaco",1
+Ferrari,79628.71,2019,"Circuit de Monaco",1
+Mercedes,79595.35,2019,"Circuit de Monaco",1
+McLaren,80280.65,2019,"Circuit de Monaco",0
+McLaren,80451.77,2019,"Circuit de Monaco",0
+"Haas F1 Team",80377.83,2019,"Circuit de Monaco",0
+Renault,80376.04,2019,"Circuit de Monaco",0
+"Toro Rosso",80303.04,2019,"Circuit de Monaco",0
+"Toro Rosso",80295.01,2019,"Circuit de Monaco",0
+AlphaTauri,76804.05,2021,"Circuit de Monaco",0
+McLaren,76362.14,2021,"Circuit de Monaco",1
+"Red Bull",76375.77,2021,"Circuit de Monaco",0
+"Aston Martin",76787.32,2021,"Circuit de Monaco",0
+Mercedes,76987.83,2021,"Circuit de Monaco",0
+"Red Bull",76113.08,2021,"Circuit de Monaco",1
+Ferrari,76228.05,2021,"Circuit de Monaco",1
+Ferrari,109268.55,2022,"Circuit de Monaco",0
+"Red Bull",109246.19,2022,"Circuit de Monaco",1
+Ferrari,109240.92,2022,"Circuit de Monaco",1
+"Red Bull",109222.89,2022,"Circuit de Monaco",1
+"Aston Martin",110172.92,2022,"Circuit de Monaco",0
+McLaren,110123.44,2022,"Circuit de Monaco",0
+"Alpine F1 Team",110092.33,2022,"Circuit de Monaco",0
+AlphaTauri,110071.16,2022,"Circuit de Monaco",0
+"Aston Martin",110059.39,2022,"Circuit de Monaco",0
+"Alfa Romeo",110043.59,2022,"Circuit de Monaco",0
+Mercedes,110010.20,2022,"Circuit de Monaco",0
+"Alpine F1 Team",109947.23,2022,"Circuit de Monaco",0
+McLaren,109414.00,2022,"Circuit de Monaco",0
+Mercedes,109409.89,2022,"Circuit de Monaco",0
+"Toro Rosso",117010.82,2014,"Circuit de Spa-Francorchamps",0
+"Red Bull",116562.55,2014,"Circuit de Spa-Francorchamps",0
+McLaren,116616.73,2014,"Circuit de Spa-Francorchamps",0
+"Force India",116837.48,2014,"Circuit de Spa-Francorchamps",0
+Sauber,117440.48,2014,"Circuit de Spa-Francorchamps",0
+Sauber,117250.07,2014,"Circuit de Spa-Francorchamps",0
+Williams,117102.98,2014,"Circuit de Spa-Francorchamps",0
+McLaren,117064.05,2014,"Circuit de Spa-Francorchamps",0
+"Force India",116869.39,2014,"Circuit de Spa-Francorchamps",0
+Ferrari,116766.32,2014,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116861.43,2014,"Circuit de Spa-Francorchamps",0
+"Red Bull",115376.27,2014,"Circuit de Spa-Francorchamps",1
+Mercedes,115453.16,2014,"Circuit de Spa-Francorchamps",1
+Williams,116013.36,2014,"Circuit de Spa-Francorchamps",1
+Ferrari,116212.98,2014,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",118057.28,2015,"Circuit de Spa-Francorchamps",0
+Williams,118172.72,2015,"Circuit de Spa-Francorchamps",0
+Sauber,118874.91,2015,"Circuit de Spa-Francorchamps",0
+Sauber,119132.51,2015,"Circuit de Spa-Francorchamps",0
+"Lotus F1",117636.63,2015,"Circuit de Spa-Francorchamps",1
+Mercedes,116801.05,2015,"Circuit de Spa-Francorchamps",1
+Mercedes,116753.19,2015,"Circuit de Spa-Francorchamps",1
+Williams,118038.84,2015,"Circuit de Spa-Francorchamps",0
+"Red Bull",117815.79,2015,"Circuit de Spa-Francorchamps",0
+"Force India",118008.93,2015,"Circuit de Spa-Francorchamps",0
+Ferrari,118048.60,2015,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",144716.64,2016,"Circuit de Spa-Francorchamps",0
+"Force India",143902.68,2016,"Circuit de Spa-Francorchamps",0
+McLaren,144329.61,2016,"Circuit de Spa-Francorchamps",0
+Williams,144345.66,2016,"Circuit de Spa-Francorchamps",0
+Ferrari,144367.43,2016,"Circuit de Spa-Francorchamps",0
+Williams,144475.70,2016,"Circuit de Spa-Francorchamps",0
+"Red Bull",144595.36,2016,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",144657.61,2016,"Circuit de Spa-Francorchamps",0
+Mercedes,143606.64,2016,"Circuit de Spa-Francorchamps",1
+"Toro Rosso",144958.07,2016,"Circuit de Spa-Francorchamps",0
+Renault,145095.98,2016,"Circuit de Spa-Francorchamps",0
+"Red Bull",143299.34,2016,"Circuit de Spa-Francorchamps",1
+Mercedes,142978.59,2016,"Circuit de Spa-Francorchamps",1
+"Force India",143794.66,2016,"Circuit de Spa-Francorchamps",0
+Ferrari,144010.27,2016,"Circuit de Spa-Francorchamps",0
+Ferrari,115572.23,2017,"Circuit de Spa-Francorchamps",1
+"Force India",116385.77,2017,"Circuit de Spa-Francorchamps",0
+Mercedes,115892.64,2017,"Circuit de Spa-Francorchamps",0
+Ferrari,115847.52,2017,"Circuit de Spa-Francorchamps",0
+Williams,116351.57,2017,"Circuit de Spa-Francorchamps",0
+"Red Bull",115763.89,2017,"Circuit de Spa-Francorchamps",1
+"Haas F1 Team",116235.75,2017,"Circuit de Spa-Francorchamps",0
+Mercedes,115518.64,2017,"Circuit de Spa-Francorchamps",1
+Renault,116156.98,2017,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",117047.32,2017,"Circuit de Spa-Francorchamps",0
+Sauber,117102.98,2017,"Circuit de Spa-Francorchamps",0
+McLaren,116815.86,2017,"Circuit de Spa-Francorchamps",0
+Renault,116728.61,2017,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116653.64,2017,"Circuit de Spa-Francorchamps",0
+Williams,116632.25,2017,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116415.16,2017,"Circuit de Spa-Francorchamps",0
+"Red Bull",114678.36,2018,"Circuit de Spa-Francorchamps",1
+Ferrari,113965.36,2018,"Circuit de Spa-Francorchamps",1
+Mercedes,114216.75,2018,"Circuit de Spa-Francorchamps",1
+Mercedes,115410.93,2018,"Circuit de Spa-Francorchamps",0
+"Force India",115772.64,2018,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",115918.84,2018,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116372.00,2018,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",115957.16,2018,"Circuit de Spa-Francorchamps",0
+"Force India",115579.52,2018,"Circuit de Spa-Francorchamps",0
+"Red Bull",116068.98,2019,"Circuit de Spa-Francorchamps",0
+"Racing Point",116717.00,2019,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116258.34,2019,"Circuit de Spa-Francorchamps",0
+"Toro Rosso",116701.77,2019,"Circuit de Spa-Francorchamps",0
+Ferrari,114821.18,2019,"Circuit de Spa-Francorchamps",0
+Renault,116644.30,2019,"Circuit de Spa-Francorchamps",0
+Mercedes,114506.70,2019,"Circuit de Spa-Francorchamps",1
+Mercedes,114242.98,2019,"Circuit de Spa-Francorchamps",1
+Ferrari,114220.68,2019,"Circuit de Spa-Francorchamps",1
+"Racing Point",116139.95,2019,"Circuit de Spa-Francorchamps",0
+Williams,116512.64,2020,"Circuit de Spa-Francorchamps",0
+Mercedes,114744.57,2020,"Circuit de Spa-Francorchamps",1
+AlphaTauri,115821.18,2020,"Circuit de Spa-Francorchamps",0
+"Racing Point",115940.09,2020,"Circuit de Spa-Francorchamps",0
+Renault,115668.43,2020,"Circuit de Spa-Francorchamps",0
+"Red Bull",115715.30,2020,"Circuit de Spa-Francorchamps",0
+McLaren,115739.43,2020,"Circuit de Spa-Francorchamps",0
+"Racing Point",115953.18,2020,"Circuit de Spa-Francorchamps",0
+AlphaTauri,116340.02,2020,"Circuit de Spa-Francorchamps",0
+"Alfa Romeo",116369.66,2020,"Circuit de Spa-Francorchamps",0
+Ferrari,116401.25,2020,"Circuit de Spa-Francorchamps",0
+Ferrari,116447.30,2020,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",116489.86,2020,"Circuit de Spa-Francorchamps",0
+Renault,115173.59,2020,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",116688.66,2020,"Circuit de Spa-Francorchamps",0
+"Red Bull",115095.82,2020,"Circuit de Spa-Francorchamps",1
+Mercedes,114936.57,2020,"Circuit de Spa-Francorchamps",1
+Ferrari,219679.00,2021,"Circuit de Spa-Francorchamps",0
+Williams,222556.00,2021,"Circuit de Spa-Francorchamps",0
+Ferrari,223237.00,2021,"Circuit de Spa-Francorchamps",0
+"Alfa Romeo",243125.00,2021,"Circuit de Spa-Francorchamps",0
+"Red Bull",245276.00,2021,"Circuit de Spa-Francorchamps",0
+"Aston Martin",251179.00,2021,"Circuit de Spa-Francorchamps",0
+"Red Bull",207071.00,2021,"Circuit de Spa-Francorchamps",1
+Williams,209066.00,2021,"Circuit de Spa-Francorchamps",1
+Mercedes,209672.00,2021,"Circuit de Spa-Francorchamps",1
+McLaren,211567.00,2021,"Circuit de Spa-Francorchamps",0
+AlphaTauri,217248.00,2021,"Circuit de Spa-Francorchamps",0
+"Alpine F1 Team",218650.00,2021,"Circuit de Spa-Francorchamps",0
+"Alpine F1 Team",227661.00,2021,"Circuit de Spa-Francorchamps",0
+"Aston Martin",214550.00,2021,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",236578.00,2021,"Circuit de Spa-Francorchamps",0
+AlphaTauri,235400.00,2021,"Circuit de Spa-Francorchamps",0
+McLaren,234181.00,2021,"Circuit de Spa-Francorchamps",0
+"Alfa Romeo",231234.00,2021,"Circuit de Spa-Francorchamps",0
+Mercedes,229485.00,2021,"Circuit de Spa-Francorchamps",0
+"Haas F1 Team",239064.00,2021,"Circuit de Spa-Francorchamps",0
+"Red Bull",117516.70,2022,"Circuit de Spa-Francorchamps",1
+Ferrari,117722.27,2022,"Circuit de Spa-Francorchamps",1
+Mercedes,117773.50,2022,"Circuit de Spa-Francorchamps",0
+"Alpine F1 Team",118776.14,2022,"Circuit de Spa-Francorchamps",0
+Ferrari,118814.32,2022,"Circuit de Spa-Francorchamps",0
+"Alpine F1 Team",118830.32,2022,"Circuit de Spa-Francorchamps",0
+"Aston Martin",118886.39,2022,"Circuit de Spa-Francorchamps",0
+AlphaTauri,119206.25,2022,"Circuit de Spa-Francorchamps",0
+"Aston Martin",119453.91,2022,"Circuit de Spa-Francorchamps",0
+McLaren,119491.66,2022,"Circuit de Spa-Francorchamps",0
+AlphaTauri,119502.52,2022,"Circuit de Spa-Francorchamps",0
+Williams,119427.14,2022,"Circuit de Spa-Francorchamps",0
+"Alfa Romeo",119526.05,2022,"Circuit de Spa-Francorchamps",0
+McLaren,119546.75,2022,"Circuit de Spa-Francorchamps",0
+"Red Bull",117111.23,2022,"Circuit de Spa-Francorchamps",1
+"Red Bull",85040.43,2014,"Circuit Gilles Villeneuve",1
+Ferrari,85807.26,2014,"Circuit Gilles Villeneuve",0
+McLaren,85458.34,2014,"Circuit Gilles Villeneuve",0
+"Toro Rosso",85440.80,2014,"Circuit Gilles Villeneuve",0
+Williams,85377.26,2014,"Circuit Gilles Villeneuve",0
+Ferrari,85252.84,2014,"Circuit Gilles Villeneuve",0
+"Force India",85223.90,2014,"Circuit Gilles Villeneuve",0
+McLaren,85208.36,2014,"Circuit Gilles Villeneuve",0
+"Red Bull",85115.39,2014,"Circuit Gilles Villeneuve",1
+Mercedes,85100.94,2014,"Circuit Gilles Villeneuve",1
+"Lotus F1",79711.56,2015,"Circuit Gilles Villeneuve",0
+Williams,79564.66,2015,"Circuit Gilles Villeneuve",0
+Ferrari,79472.11,2015,"Circuit Gilles Villeneuve",0
+Ferrari,79411.00,2015,"Circuit Gilles Villeneuve",0
+Williams,79340.16,2015,"Circuit Gilles Villeneuve",1
+Mercedes,78791.86,2015,"Circuit Gilles Villeneuve",1
+Mercedes,78759.21,2015,"Circuit Gilles Villeneuve",1
+"Red Bull",78984.71,2016,"Circuit Gilles Villeneuve",0
+Mercedes,78075.66,2016,"Circuit Gilles Villeneuve",1
+Ferrari,78147.24,2016,"Circuit Gilles Villeneuve",1
+Williams,78738.83,2016,"Circuit Gilles Villeneuve",1
+"Red Bull",78833.09,2016,"Circuit Gilles Villeneuve",0
+Mercedes,78962.70,2016,"Circuit Gilles Villeneuve",0
+Ferrari,78975.90,2016,"Circuit Gilles Villeneuve",0
+Mercedes,80070.53,2017,"Circuit Gilles Villeneuve",1
+Ferrari,80625.51,2017,"Circuit Gilles Villeneuve",0
+Mercedes,79787.91,2017,"Circuit Gilles Villeneuve",1
+Renault,80650.40,2017,"Circuit Gilles Villeneuve",0
+"Force India",80366.14,2017,"Circuit Gilles Villeneuve",0
+Ferrari,80300.87,2017,"Circuit Gilles Villeneuve",0
+"Red Bull",80292.16,2017,"Circuit Gilles Villeneuve",1
+"Force India",80369.57,2017,"Circuit Gilles Villeneuve",0
+Ferrari,78508.25,2018,"Circuit Gilles Villeneuve",0
+Mercedes,78425.53,2018,"Circuit Gilles Villeneuve",0
+"Red Bull",78415.72,2018,"Circuit Gilles Villeneuve",0
+Ferrari,78108.49,2018,"Circuit Gilles Villeneuve",1
+Mercedes,78216.96,2018,"Circuit Gilles Villeneuve",1
+"Red Bull",78231.43,2018,"Circuit Gilles Villeneuve",1
+Mercedes,77116.10,2019,"Circuit Gilles Villeneuve",0
+Ferrari,76454.00,2019,"Circuit Gilles Villeneuve",1
+"Red Bull",77210.56,2019,"Circuit Gilles Villeneuve",0
+Ferrari,76439.17,2019,"Circuit Gilles Villeneuve",1
+Mercedes,76386.91,2019,"Circuit Gilles Villeneuve",1
+"Alpine F1 Team",83024.31,2022,"Circuit Gilles Villeneuve",0
+"Alfa Romeo",82981.56,2022,"Circuit Gilles Villeneuve",0
+"Alpine F1 Team",82937.81,2022,"Circuit Gilles Villeneuve",0
+Mercedes,82696.61,2022,"Circuit Gilles Villeneuve",1
+Williams,83237.86,2022,"Circuit Gilles Villeneuve",0
+Ferrari,82813.21,2022,"Circuit Gilles Villeneuve",0
+Mercedes,82772.43,2022,"Circuit Gilles Villeneuve",0
+AlphaTauri,83242.00,2022,"Circuit Gilles Villeneuve",0
+McLaren,83341.46,2022,"Circuit Gilles Villeneuve",0
+Williams,83453.36,2022,"Circuit Gilles Villeneuve",0
+"Haas F1 Team",83570.53,2022,"Circuit Gilles Villeneuve",0
+"Red Bull",82596.53,2022,"Circuit Gilles Villeneuve",1
+"Alfa Romeo",82957.20,2022,"Circuit Gilles Villeneuve",0
+McLaren,83211.49,2022,"Circuit Gilles Villeneuve",0
+"Aston Martin",83228.60,2022,"Circuit Gilles Villeneuve",0
+"Aston Martin",83142.56,2022,"Circuit Gilles Villeneuve",0
+Ferrari,82610.71,2022,"Circuit Gilles Villeneuve",1
+Williams,107709.09,2014,"Circuit of the Americas",0
+"Red Bull",107684.73,2014,"Circuit of the Americas",1
+Mercedes,107305.34,2014,"Circuit of the Americas",1
+Mercedes,107228.30,2014,"Circuit of the Americas",1
+"Red Bull",108937.84,2014,"Circuit of the Americas",0
+Ferrari,108928.86,2014,"Circuit of the Americas",0
+"Toro Rosso",109172.29,2014,"Circuit of the Americas",0
+"Lotus F1",109154.55,2014,"Circuit of the Americas",0
+McLaren,109026.20,2014,"Circuit of the Americas",0
+Williams,107781.73,2014,"Circuit of the Americas",0
+"Toro Rosso",119197.54,2015,"Circuit of the Americas",0
+"Force India",119234.21,2015,"Circuit of the Americas",0
+Ferrari,118858.64,2015,"Circuit of the Americas",1
+Mercedes,118849.16,2015,"Circuit of the Americas",1
+Mercedes,118798.27,2015,"Circuit of the Americas",1
+Sauber,119517.14,2015,"Circuit of the Americas",0
+"Lotus F1",119374.57,2015,"Circuit of the Americas",0
+"Manor Marussia",120142.50,2015,"Circuit of the Americas",0
+"Toro Rosso",119345.04,2015,"Circuit of the Americas",0
+McLaren,119777.13,2015,"Circuit of the Americas",0
+"Red Bull",119751.32,2015,"Circuit of the Americas",0
+McLaren,119299.30,2015,"Circuit of the Americas",0
+Mercedes,105306.04,2016,"Circuit of the Americas",1
+Mercedes,105225.32,2016,"Circuit of the Americas",1
+"Toro Rosso",106941.82,2016,"Circuit of the Americas",0
+McLaren,106903.05,2016,"Circuit of the Americas",0
+Ferrari,105995.57,2016,"Circuit of the Americas",0
+"Red Bull",105576.96,2016,"Circuit of the Americas",1
+Ferrari,100835.18,2017,"Circuit of the Americas",1
+Mercedes,100553.41,2017,"Circuit of the Americas",1
+Mercedes,101177.82,2017,"Circuit of the Americas",0
+"Red Bull",100852.84,2017,"Circuit of the Americas",0
+Renault,102213.13,2017,"Circuit of the Americas",0
+Ferrari,100734.54,2017,"Circuit of the Americas",1
+"Force India",102178.05,2017,"Circuit of the Americas",0
+"Red Bull",101070.07,2018,"Circuit of the Americas",1
+Mercedes,101089.02,2018,"Circuit of the Americas",1
+Ferrari,101372.59,2018,"Circuit of the Americas",0
+Mercedes,101489.05,2018,"Circuit of the Americas",0
+Renault,102604.52,2018,"Circuit of the Americas",0
+Renault,102743.52,2018,"Circuit of the Americas",0
+"Force India",102852.20,2018,"Circuit of the Americas",0
+Ferrari,101047.20,2018,"Circuit of the Americas",1
+Mercedes,100710.73,2019,"Circuit of the Americas",1
+Mercedes,100636.66,2019,"Circuit of the Americas",1
+McLaren,102257.45,2019,"Circuit of the Americas",0
+Renault,102250.34,2019,"Circuit of the Americas",0
+"Red Bull",102030.20,2019,"Circuit of the Americas",0
+Ferrari,101569.50,2019,"Circuit of the Americas",0
+"Red Bull",100725.98,2019,"Circuit of the Americas",1
+McLaren,102874.05,2021,"Circuit of the Americas",0
+Ferrari,102858.88,2021,"Circuit of the Americas",0
+"Red Bull",101367.00,2021,"Circuit of the Americas",1
+Mercedes,101390.80,2021,"Circuit of the Americas",1
+"Red Bull",102120.98,2021,"Circuit of the Americas",1
+Ferrari,102299.96,2021,"Circuit of the Americas",0
+McLaren,102739.39,2021,"Circuit of the Americas",0
+Mercedes,102797.86,2021,"Circuit of the Americas",0
+"Aston Martin",110661.45,2022,"Circuit of the Americas",0
+"Alpine F1 Team",110477.95,2022,"Circuit of the Americas",0
+Williams,111344.20,2022,"Circuit of the Americas",0
+"Alfa Romeo",110854.48,2022,"Circuit of the Americas",0
+McLaren,110454.86,2022,"Circuit of the Americas",0
+Mercedes,110294.68,2022,"Circuit of the Americas",0
+"Red Bull",109642.50,2022,"Circuit of the Americas",0
+Ferrari,109628.36,2022,"Circuit of the Americas",1
+"Haas F1 Team",111003.16,2022,"Circuit of the Americas",0
+Mercedes,109584.11,2022,"Circuit of the Americas",1
+McLaren,111110.25,2022,"Circuit of the Americas",0
+AlphaTauri,110954.46,2022,"Circuit of the Americas",0
+Williams,110924.00,2022,"Circuit of the Americas",0
+"Alpine F1 Team",110795.75,2022,"Circuit of the Americas",0
+AlphaTauri,110760.82,2022,"Circuit of the Americas",0
+"Red Bull",109494.41,2022,"Circuit of the Americas",1
+"Haas F1 Team",110670.02,2022,"Circuit of the Americas",0
+Mercedes,75859.10,2021,"Circuit Park Zandvoort",1
+"Red Bull",75074.93,2021,"Circuit Park Zandvoort",1
+Mercedes,75365.65,2021,"Circuit Park Zandvoort",1
+"Red Bull",80846.40,2022,"Circuit Park Zandvoort",0
+McLaren,80862.21,2022,"Circuit Park Zandvoort",0
+Ferrari,80884.57,2022,"Circuit Park Zandvoort",0
+"Alpine F1 Team",80854.54,2022,"Circuit Park Zandvoort",0
+"Haas F1 Team",81052.33,2022,"Circuit Park Zandvoort",0
+Mercedes,80774.85,2022,"Circuit Park Zandvoort",0
+Ferrari,80745.86,2022,"Circuit Park Zandvoort",1
+Mercedes,80650.61,2022,"Circuit Park Zandvoort",1
+"Red Bull",80594.07,2022,"Circuit Park Zandvoort",1
+"Alpine F1 Team",80887.36,2022,"Circuit Park Zandvoort",0
+"Aston Martin",80906.00,2022,"Circuit Park Zandvoort",0
+AlphaTauri,80969.19,2022,"Circuit Park Zandvoort",0
+Williams,81016.15,2022,"Circuit Park Zandvoort",0
+"Aston Martin",81094.17,2022,"Circuit Park Zandvoort",0
+"Haas F1 Team",81106.14,2022,"Circuit Park Zandvoort",0
+"Alfa Romeo",81112.40,2022,"Circuit Park Zandvoort",0
+McLaren,81118.57,2022,"Circuit Park Zandvoort",0
+Mercedes,102101.60,2018,"Circuit Paul Ricard",1
+Ferrari,103270.19,2018,"Circuit Paul Ricard",0
+"Haas F1 Team",103599.04,2018,"Circuit Paul Ricard",0
+"Red Bull",102757.00,2018,"Circuit Paul Ricard",0
+"Red Bull",102235.38,2018,"Circuit Paul Ricard",1
+Ferrari,102590.06,2018,"Circuit Paul Ricard",1
+Mercedes,103622.96,2018,"Circuit Paul Ricard",0
+Sauber,103872.79,2018,"Circuit Paul Ricard",0
+Renault,103837.25,2018,"Circuit Paul Ricard",0
+Renault,103746.58,2018,"Circuit Paul Ricard",0
+Ferrari,96041.19,2019,"Circuit Paul Ricard",1
+Mercedes,95682.98,2019,"Circuit Paul Ricard",1
+Mercedes,96023.66,2019,"Circuit Paul Ricard",1
+"Red Bull",96341.57,2019,"Circuit Paul Ricard",0
+Ferrari,96867.81,2019,"Circuit Paul Ricard",0
+McLaren,97484.15,2019,"Circuit Paul Ricard",0
+"Aston Martin",100479.92,2021,"Circuit Paul Ricard",0
+"Aston Martin",100711.62,2021,"Circuit Paul Ricard",0
+Mercedes,99252.60,2021,"Circuit Paul Ricard",0
+"Alpine F1 Team",100442.74,2021,"Circuit Paul Ricard",0
+AlphaTauri,100422.00,2021,"Circuit Paul Ricard",0
+McLaren,100408.06,2021,"Circuit Paul Ricard",0
+McLaren,100184.94,2021,"Circuit Paul Ricard",0
+Ferrari,100851.08,2021,"Circuit Paul Ricard",0
+"Red Bull",99143.04,2021,"Circuit Paul Ricard",1
+Mercedes,99031.58,2021,"Circuit Paul Ricard",1
+"Red Bull",98976.79,2021,"Circuit Paul Ricard",1
+Mercedes,102237.87,2022,"Circuit Paul Ricard",1
+Mercedes,102126.40,2022,"Circuit Paul Ricard",1
+"Red Bull",101926.64,2022,"Circuit Paul Ricard",1
+"Alfa Romeo",103373.17,2022,"Circuit Paul Ricard",0
+"Haas F1 Team",103443.51,2022,"Circuit Paul Ricard",0
+Williams,103220.32,2022,"Circuit Paul Ricard",0
+AlphaTauri,103161.51,2022,"Circuit Paul Ricard",0
+"Aston Martin",103143.51,2022,"Circuit Paul Ricard",0
+"Aston Martin",103106.81,2022,"Circuit Paul Ricard",0
+McLaren,103065.74,2022,"Circuit Paul Ricard",0
+"Alpine F1 Team",103001.34,2022,"Circuit Paul Ricard",0
+McLaren,102908.26,2022,"Circuit Paul Ricard",0
+"Alpine F1 Team",102735.68,2022,"Circuit Paul Ricard",0
+Ferrari,102471.40,2022,"Circuit Paul Ricard",0
+"Red Bull",102253.25,2022,"Circuit Paul Ricard",0
+Mercedes,84260.36,2014,Hockenheimring,1
+McLaren,85188.43,2014,Hockenheimring,0
+"Force India",84881.97,2014,Hockenheimring,0
+"Red Bull",84708.40,2014,Hockenheimring,0
+Ferrari,84707.18,2014,Hockenheimring,0
+"Red Bull",84581.01,2014,Hockenheimring,0
+Mercedes,83924.09,2014,Hockenheimring,1
+Williams,84234.37,2014,Hockenheimring,1
+Ferrari,81809.30,2016,Hockenheimring,0
+Ferrari,81742.84,2016,Hockenheimring,0
+Mercedes,81493.21,2016,Hockenheimring,0
+"Red Bull",81456.91,2016,Hockenheimring,1
+"Red Bull",81361.13,2016,Hockenheimring,1
+"Force India",82302.22,2016,Hockenheimring,0
+Mercedes,81256.72,2016,Hockenheimring,1
+"Toro Rosso",83343.91,2018,Hockenheimring,0
+Renault,83476.33,2018,Hockenheimring,0
+"Haas F1 Team",83354.69,2018,Hockenheimring,0
+McLaren,83529.28,2018,Hockenheimring,0
+Mercedes,82833.51,2018,Hockenheimring,1
+Mercedes,82901.19,2018,Hockenheimring,1
+Ferrari,82933.99,2018,Hockenheimring,1
+"Red Bull",82947.75,2018,Hockenheimring,0
+Renault,83230.66,2018,Hockenheimring,0
+"Haas F1 Team",83264.42,2018,Hockenheimring,0
+"Force India",83289.57,2018,Hockenheimring,0
+"Force India",83307.39,2018,Hockenheimring,0
+Sauber,83316.52,2018,Hockenheimring,0
+"Red Bull",97988.67,2019,Hockenheimring,1
+Ferrari,98103.25,2019,Hockenheimring,1
+"Racing Point",98128.77,2019,Hockenheimring,0
+McLaren,98138.41,2019,Hockenheimring,0
+"Toro Rosso",98145.73,2019,Hockenheimring,0
+"Haas F1 Team",98251.77,2019,Hockenheimring,0
+"Alfa Romeo",98673.81,2019,Hockenheimring,0
+Williams,98401.23,2019,Hockenheimring,0
+Williams,98379.09,2019,Hockenheimring,0
+"Alfa Romeo",98648.27,2019,Hockenheimring,0
+Mercedes,98295.97,2019,Hockenheimring,0
+"Haas F1 Team",98281.88,2019,Hockenheimring,0
+"Toro Rosso",98118.44,2019,Hockenheimring,1
+Mercedes,97013.07,2014,Hungaroring,1
+Mercedes,97020.27,2014,Hungaroring,0
+Williams,97355.70,2014,Hungaroring,0
+Ferrari,97379.27,2014,Hungaroring,0
+"Red Bull",97514.60,2014,Hungaroring,0
+Williams,97520.03,2014,Hungaroring,0
+"Toro Rosso",97765.50,2014,Hungaroring,0
+McLaren,97890.54,2014,Hungaroring,0
+Sauber,97903.24,2014,Hungaroring,0
+McLaren,98050.33,2014,Hungaroring,0
+"Lotus F1",98129.74,2014,Hungaroring,0
+"Red Bull",96929.40,2014,Hungaroring,1
+Ferrari,97004.04,2014,Hungaroring,1
+Sauber,93383.23,2015,Hungaroring,0
+"Lotus F1",93552.57,2015,Hungaroring,0
+Mercedes,93171.90,2015,Hungaroring,0
+Williams,93481.35,2015,Hungaroring,0
+Williams,93395.12,2015,Hungaroring,0
+McLaren,93029.91,2015,Hungaroring,0
+Sauber,93320.51,2015,Hungaroring,0
+McLaren,93290.04,2015,Hungaroring,0
+"Lotus F1",93167.58,2015,Hungaroring,0
+Mercedes,93072.61,2015,Hungaroring,0
+"Toro Rosso",92959.94,2015,Hungaroring,0
+"Red Bull",92682.16,2015,Hungaroring,1
+"Red Bull",92546.86,2015,Hungaroring,1
+Ferrari,92318.62,2015,Hungaroring,1
+Mercedes,86172.74,2016,Hungaroring,1
+"Red Bull",86537.91,2016,Hungaroring,1
+"Red Bull",86839.63,2016,Hungaroring,0
+Ferrari,86845.13,2016,Hungaroring,0
+Ferrari,86547.54,2016,Hungaroring,0
+Mercedes,86144.50,2016,Hungaroring,1
+McLaren,86541.94,2017,Hungaroring,0
+"Red Bull",85714.13,2017,Hungaroring,0
+Mercedes,85708.54,2017,Hungaroring,0
+Mercedes,85702.50,2017,Hungaroring,1
+Ferrari,85537.44,2017,Hungaroring,1
+Ferrari,85524.47,2017,Hungaroring,1
+Mercedes,83377.53,2018,Hungaroring,1
+"Toro Rosso",84424.29,2018,Hungaroring,0
+Mercedes,84091.81,2018,Hungaroring,0
+"Red Bull",84040.66,2018,Hungaroring,0
+Ferrari,83664.69,2018,Hungaroring,1
+Ferrari,83622.14,2018,Hungaroring,1
+Mercedes,81482.80,2019,Hungaroring,1
+"Red Bull",81737.03,2019,Hungaroring,1
+Ferrari,82414.94,2019,Hungaroring,0
+Ferrari,82360.41,2019,Hungaroring,1
+Mercedes,82463.90,2020,Hungaroring,1
+Mercedes,82598.93,2020,Hungaroring,1
+"Racing Point",83286.46,2020,Hungaroring,0
+"Red Bull",83582.70,2020,Hungaroring,0
+"Red Bull",82588.21,2020,Hungaroring,1
+"Alpine F1 Team",106902.84,2021,Hungaroring,1
+Ferrari,107117.39,2021,Hungaroring,1
+"Alpine F1 Team",107126.43,2021,Hungaroring,0
+"Red Bull",108049.19,2021,Hungaroring,0
+Williams,108032.76,2021,Hungaroring,0
+Mercedes,106941.93,2021,Hungaroring,1
+Williams,108015.84,2021,Hungaroring,0
+AlphaTauri,107985.74,2021,Hungaroring,0
+AlphaTauri,107811.61,2021,Hungaroring,0
+"Red Bull",85370.17,2022,Hungaroring,1
+Mercedes,85546.41,2022,Hungaroring,1
+Ferrari,85578.44,2022,Hungaroring,0
+"Red Bull",85594.29,2022,Hungaroring,0
+Ferrari,85599.41,2022,Hungaroring,0
+McLaren,86488.74,2022,Hungaroring,0
+Mercedes,85482.09,2022,Hungaroring,1
+Renault,107496.09,2020,"Istanbul Park",0
+"Racing Point",107097.69,2020,"Istanbul Park",0
+McLaren,106906.41,2020,"Istanbul Park",0
+"Red Bull",106651.67,2020,"Istanbul Park",0
+McLaren,106442.69,2020,"Istanbul Park",0
+Ferrari,106401.26,2020,"Istanbul Park",1
+Ferrari,106433.98,2020,"Istanbul Park",0
+"Racing Point",106395.62,2020,"Istanbul Park",1
+Mercedes,105850.22,2020,"Istanbul Park",1
+"Red Bull",106623.90,2020,"Istanbul Park",0
+"Red Bull",94460.12,2021,"Istanbul Park",1
+"Red Bull",94785.76,2021,"Istanbul Park",1
+Ferrari,94860.64,2021,"Istanbul Park",0
+McLaren,95022.69,2021,"Istanbul Park",0
+Ferrari,95097.05,2021,"Istanbul Park",0
+"Aston Martin",95622.78,2021,"Istanbul Park",0
+Mercedes,94208.67,2021,"Istanbul Park",1
+Mercedes,94929.57,2021,"Istanbul Park",0
+AlphaTauri,94972.33,2021,"Istanbul Park",0
+Ferrari,152434.48,2021,"Jeddah Corniche Circuit",0
+Mercedes,152052.98,2021,"Jeddah Corniche Circuit",1
+Mercedes,151502.36,2021,"Jeddah Corniche Circuit",1
+"Red Bull",151738.86,2021,"Jeddah Corniche Circuit",1
+"Alpine F1 Team",152055.02,2021,"Jeddah Corniche Circuit",0
+McLaren,152304.78,2021,"Jeddah Corniche Circuit",0
+AlphaTauri,152334.62,2021,"Jeddah Corniche Circuit",0
+Ferrari,152391.86,2021,"Jeddah Corniche Circuit",0
+"Alfa Romeo",152672.46,2021,"Jeddah Corniche Circuit",0
+McLaren,152729.52,2021,"Jeddah Corniche Circuit",0
+"Aston Martin",153046.60,2021,"Jeddah Corniche Circuit",0
+Williams,153167.34,2021,"Jeddah Corniche Circuit",0
+"Alfa Romeo",102830.16,2022,"Jeddah Corniche Circuit",0
+"Aston Martin",103020.70,2022,"Jeddah Corniche Circuit",0
+"Red Bull",101185.86,2022,"Jeddah Corniche Circuit",1
+Ferrari,101196.84,2022,"Jeddah Corniche Circuit",1
+Ferrari,101347.80,2022,"Jeddah Corniche Circuit",1
+"Red Bull",101401.86,2022,"Jeddah Corniche Circuit",0
+Mercedes,101840.50,2022,"Jeddah Corniche Circuit",0
+"Alpine F1 Team",102306.20,2022,"Jeddah Corniche Circuit",0
+McLaren,102308.34,2022,"Jeddah Corniche Circuit",0
+AlphaTauri,102444.78,2022,"Jeddah Corniche Circuit",0
+"Haas F1 Team",102472.02,2022,"Jeddah Corniche Circuit",0
+Mercedes,102664.82,2022,"Jeddah Corniche Circuit",0
+Mercedes,88920.54,2021,"Losail International Circuit",1
+"Red Bull",89372.18,2021,"Losail International Circuit",1
+"Red Bull",90013.63,2021,"Losail International Circuit",0
+Ferrari,90378.89,2021,"Losail International Circuit",0
+"Aston Martin",90346.40,2021,"Losail International Circuit",0
+Ferrari,90357.58,2021,"Losail International Circuit",0
+"Alpine F1 Team",89963.65,2021,"Losail International Circuit",1
+"Alpine F1 Team",90334.05,2021,"Losail International Circuit",0
+Ferrari,120336.40,2014,"Marina Bay Street Circuit",0
+Williams,120782.60,2014,"Marina Bay Street Circuit",0
+"Toro Rosso",121026.60,2014,"Marina Bay Street Circuit",0
+Mercedes,120079.92,2014,"Marina Bay Street Circuit",1
+"Red Bull",120305.48,2014,"Marina Bay Street Circuit",1
+"Force India",121063.88,2014,"Marina Bay Street Circuit",0
+"Force India",121107.60,2014,"Marina Bay Street Circuit",0
+McLaren,121117.08,2014,"Marina Bay Street Circuit",0
+Williams,121164.33,2014,"Marina Bay Street Circuit",0
+"Lotus F1",121195.17,2014,"Marina Bay Street Circuit",0
+"Lotus F1",121213.73,2014,"Marina Bay Street Circuit",0
+Caterham,121649.72,2014,"Marina Bay Street Circuit",0
+Marussia,121655.63,2014,"Marina Bay Street Circuit",0
+"Red Bull",120317.80,2014,"Marina Bay Street Circuit",1
+"Toro Rosso",121280.05,2014,"Marina Bay Street Circuit",0
+Ferrari,121090.60,2014,"Marina Bay Street Circuit",0
+"Red Bull",119961.08,2015,"Marina Bay Street Circuit",0
+"Force India",120212.36,2015,"Marina Bay Street Circuit",0
+"Toro Rosso",120222.43,2015,"Marina Bay Street Circuit",0
+"Toro Rosso",120245.54,2015,"Marina Bay Street Circuit",0
+Sauber,120855.13,2015,"Marina Bay Street Circuit",0
+Sauber,120977.46,2015,"Marina Bay Street Circuit",0
+"Lotus F1",120980.92,2015,"Marina Bay Street Circuit",0
+Mercedes,119784.23,2015,"Marina Bay Street Circuit",0
+Ferrari,119660.20,2015,"Marina Bay Street Circuit",1
+Ferrari,119378.98,2015,"Marina Bay Street Circuit",1
+"Red Bull",119403.21,2015,"Marina Bay Street Circuit",1
+Williams,119939.70,2015,"Marina Bay Street Circuit",0
+Ferrari,114371.21,2016,"Marina Bay Street Circuit",0
+"Red Bull",113925.21,2016,"Marina Bay Street Circuit",1
+Mercedes,114048.98,2016,"Marina Bay Street Circuit",1
+Ferrari,114084.74,2016,"Marina Bay Street Circuit",0
+Mercedes,113917.21,2016,"Marina Bay Street Circuit",1
+"Red Bull",115084.38,2016,"Marina Bay Street Circuit",0
+McLaren,115379.48,2016,"Marina Bay Street Circuit",0
+"Force India",115737.90,2016,"Marina Bay Street Circuit",0
+"Toro Rosso",115746.02,2016,"Marina Bay Street Circuit",0
+Renault,115883.64,2016,"Marina Bay Street Circuit",0
+Renault,128117.29,2017,"Marina Bay Street Circuit",0
+"Red Bull",127725.02,2017,"Marina Bay Street Circuit",1
+Mercedes,127799.03,2017,"Marina Bay Street Circuit",1
+"Toro Rosso",128040.79,2017,"Marina Bay Street Circuit",0
+"Force India",128084.53,2017,"Marina Bay Street Circuit",0
+Williams,128449.66,2017,"Marina Bay Street Circuit",0
+McLaren,128171.24,2017,"Marina Bay Street Circuit",0
+Williams,128366.21,2017,"Marina Bay Street Circuit",0
+"Haas F1 Team",128393.55,2017,"Marina Bay Street Circuit",0
+"Force India",128419.64,2017,"Marina Bay Street Circuit",0
+Mercedes,127647.31,2017,"Marina Bay Street Circuit",1
+"Red Bull",109517.57,2018,"Marina Bay Street Circuit",1
+Mercedes,109370.67,2018,"Marina Bay Street Circuit",1
+"Red Bull",110255.62,2018,"Marina Bay Street Circuit",0
+Ferrari,110239.54,2018,"Marina Bay Street Circuit",0
+Mercedes,110221.98,2018,"Marina Bay Street Circuit",0
+Ferrari,110026.15,2018,"Marina Bay Street Circuit",1
+McLaren,111059.21,2018,"Marina Bay Street Circuit",0
+McLaren,117207.23,2019,"Marina Bay Street Circuit",0
+"Racing Point",117214.52,2019,"Marina Bay Street Circuit",0
+Ferrari,116617.49,2019,"Marina Bay Street Circuit",1
+Ferrari,116660.79,2019,"Marina Bay Street Circuit",1
+"Red Bull",116680.13,2019,"Marina Bay Street Circuit",1
+"Haas F1 Team",118035.89,2019,"Marina Bay Street Circuit",0
+"Haas F1 Team",117198.41,2019,"Marina Bay Street Circuit",0
+Renault,116891.56,2019,"Marina Bay Street Circuit",0
+Williams,117388.38,2019,"Marina Bay Street Circuit",0
+"Toro Rosso",117243.36,2019,"Marina Bay Street Circuit",0
+Renault,117234.87,2019,"Marina Bay Street Circuit",0
+"Alfa Romeo",117074.13,2019,"Marina Bay Street Circuit",0
+Mercedes,116717.80,2019,"Marina Bay Street Circuit",0
+"Red Bull",116808.69,2019,"Marina Bay Street Circuit",0
+McLaren,116859.61,2019,"Marina Bay Street Circuit",0
+"Toro Rosso",116872.36,2019,"Marina Bay Street Circuit",0
+Mercedes,116693.03,2019,"Marina Bay Street Circuit",0
+"Aston Martin",125365.56,2022,"Marina Bay Street Circuit",0
+"Red Bull",125407.85,2022,"Marina Bay Street Circuit",0
+"Aston Martin",125428.31,2022,"Marina Bay Street Circuit",0
+Mercedes,125453.44,2022,"Marina Bay Street Circuit",0
+AlphaTauri,125590.07,2022,"Marina Bay Street Circuit",0
+"Haas F1 Team",125980.47,2022,"Marina Bay Street Circuit",0
+"Alfa Romeo",125916.64,2022,"Marina Bay Street Circuit",0
+"Red Bull",124410.81,2022,"Marina Bay Street Circuit",1
+Ferrari,124454.80,2022,"Marina Bay Street Circuit",1
+Ferrari,124585.47,2022,"Marina Bay Street Circuit",1
+McLaren,124769.00,2022,"Marina Bay Street Circuit",0
+McLaren,125313.90,2022,"Marina Bay Street Circuit",0
+Mercedes,99747.82,2022,"Miami International Autodrome",0
+"Haas F1 Team",100659.00,2022,"Miami International Autodrome",0
+"Red Bull",99559.58,2022,"Miami International Autodrome",0
+Ferrari,99517.32,2022,"Miami International Autodrome",1
+Mercedes,99698.95,2022,"Miami International Autodrome",0
+Ferrari,99439.37,2022,"Miami International Autodrome",1
+"Alfa Romeo",99812.82,2022,"Miami International Autodrome",0
+"Alpine F1 Team",99870.95,2022,"Miami International Autodrome",0
+Williams,99940.75,2022,"Miami International Autodrome",0
+"Aston Martin",100022.53,2022,"Miami International Autodrome",0
+"Alpine F1 Team",100024.32,2022,"Miami International Autodrome",0
+AlphaTauri,100077.26,2022,"Miami International Autodrome",0
+McLaren,100090.53,2022,"Miami International Autodrome",0
+Williams,100249.02,2022,"Miami International Autodrome",0
+"Red Bull",99372.95,2022,"Miami International Autodrome",1
+Ferrari,96507.52,2020,Nürburgring,0
+Mercedes,95827.35,2020,Nürburgring,1
+"Red Bull",95901.85,2020,Nürburgring,1
+Renault,96070.90,2020,Nürburgring,1
+"Alfa Romeo",96518.62,2020,Nürburgring,0
+"Haas F1 Team",96653.77,2020,Nürburgring,0
+Williams,96734.83,2020,Nürburgring,0
+AlphaTauri,96753.82,2020,Nürburgring,0
+"Racing Point",96095.18,2020,Nürburgring,0
+McLaren,96192.43,2020,Nürburgring,0
+AlphaTauri,96206.78,2020,Nürburgring,0
+"Alfa Romeo",96494.60,2020,Nürburgring,0
+Ferrari,96340.92,2020,Nürburgring,0
+"Racing Point",96370.62,2020,Nürburgring,0
+"Haas F1 Team",96478.70,2020,Nürburgring,0
+McLaren,74746.58,2014,"Red Bull Ring",0
+Mercedes,74295.44,2014,"Red Bull Ring",1
+Mercedes,74322.65,2014,"Red Bull Ring",1
+McLaren,75013.27,2014,"Red Bull Ring",0
+Williams,74410.54,2014,"Red Bull Ring",1
+Williams,74539.92,2014,"Red Bull Ring",0
+Ferrari,74556.75,2014,"Red Bull Ring",0
+"Force India",74697.49,2014,"Red Bull Ring",0
+Ferrari,74968.35,2014,"Red Bull Ring",0
+"Force India",74917.08,2014,"Red Bull Ring",0
+"Red Bull",74908.42,2014,"Red Bull Ring",0
+Williams,76542.30,2015,"Red Bull Ring",1
+Mercedes,76418.73,2015,"Red Bull Ring",1
+Mercedes,76294.79,2015,"Red Bull Ring",1
+Ferrari,76550.86,2015,"Red Bull Ring",0
+Williams,77049.77,2015,"Red Bull Ring",0
+"Force India",77197.25,2015,"Red Bull Ring",0
+Mercedes,74293.20,2016,"Red Bull Ring",0
+Ferrari,74142.69,2016,"Red Bull Ring",1
+"Red Bull",74138.39,2016,"Red Bull Ring",1
+"Red Bull",74494.20,2016,"Red Bull Ring",0
+McLaren,74588.92,2016,"Red Bull Ring",0
+"Haas F1 Team",74686.97,2016,"Red Bull Ring",0
+"Toro Rosso",74725.45,2016,"Red Bull Ring",0
+Mercedes,74057.85,2016,"Red Bull Ring",1
+Mercedes,69238.77,2017,"Red Bull Ring",0
+Ferrari,69421.03,2017,"Red Bull Ring",0
+Mercedes,69134.13,2017,"Red Bull Ring",1
+Ferrari,69143.39,2017,"Red Bull Ring",1
+"Haas F1 Team",70164.55,2017,"Red Bull Ring",0
+"Red Bull",69218.80,2017,"Red Bull Ring",1
+Ferrari,69260.96,2018,"Red Bull Ring",1
+"Red Bull",69239.77,2018,"Red Bull Ring",1
+Ferrari,69284.58,2018,"Red Bull Ring",1
+Ferrari,69359.80,2019,"Red Bull Ring",1
+"Red Bull",69321.44,2019,"Red Bull Ring",1
+Mercedes,69588.48,2019,"Red Bull Ring",1
+Ferrari,69597.63,2019,"Red Bull Ring",0
+Mercedes,69642.63,2019,"Red Bull Ring",0
+Mercedes,76841.39,2020,"Red Bull Ring",1
+Ferrari,76879.42,2020,"Red Bull Ring",1
+McLaren,76918.73,2020,"Red Bull Ring",1
+Mercedes,76921.52,2020,"Red Bull Ring",0
+McLaren,76966.79,2020,"Red Bull Ring",0
+"Racing Point",77053.96,2020,"Red Bull Ring",0
+AlphaTauri,77076.35,2020,"Red Bull Ring",0
+Renault,77087.25,2020,"Red Bull Ring",0
+"Alfa Romeo",77139.23,2020,"Red Bull Ring",0
+Ferrari,77187.10,2020,"Red Bull Ring",0
+Williams,77287.17,2020,"Red Bull Ring",0
+Mercedes,70009.62,2020,"Red Bull Ring",1
+Mercedes,70202.85,2020,"Red Bull Ring",1
+"Red Bull",70484.24,2020,"Red Bull Ring",1
+McLaren,70875.39,2020,"Red Bull Ring",0
+"Racing Point",70888.31,2020,"Red Bull Ring",0
+"Racing Point",70889.24,2020,"Red Bull Ring",0
+Renault,70891.18,2020,"Red Bull Ring",0
+"Red Bull",70634.97,2020,"Red Bull Ring",0
+AlphaTauri,71780.10,2021,"Red Bull Ring",0
+McLaren,71191.01,2021,"Red Bull Ring",1
+Ferrari,71770.96,2021,"Red Bull Ring",0
+Mercedes,71563.31,2021,"Red Bull Ring",0
+Ferrari,71713.90,2021,"Red Bull Ring",0
+"Red Bull",71724.76,2021,"Red Bull Ring",0
+"Red Bull",69562.32,2021,"Red Bull Ring",1
+Mercedes,70065.75,2021,"Red Bull Ring",1
+Mercedes,70222.99,2021,"Red Bull Ring",1
+"Red Bull",70230.41,2021,"Red Bull Ring",0
+"Red Bull",70909.06,2021,"Red Bull Ring",1
+Mercedes,71162.20,2021,"Red Bull Ring",1
+McLaren,71759.69,2021,"Red Bull Ring",0
+Ferrari,71328.34,2022,"Red Bull Ring",1
+Mercedes,71908.86,2022,"Red Bull Ring",1
+"Red Bull",71349.92,2022,"Red Bull Ring",1
+"Alpine F1 Team",72292.23,2022,"Red Bull Ring",0
+Mercedes,72158.93,2022,"Red Bull Ring",0
+Mercedes,107606.68,2014,"Sepang International Circuit",1
+Mercedes,107915.84,2014,"Sepang International Circuit",1
+"Red Bull",108044.79,2014,"Sepang International Circuit",1
+Ferrari,108249.39,2014,"Sepang International Circuit",0
+"Force India",108449.52,2014,"Sepang International Circuit",0
+McLaren,109101.16,2014,"Sepang International Circuit",0
+Williams,109125.89,2014,"Sepang International Circuit",0
+Williams,109134.13,2014,"Sepang International Circuit",0
+Williams,109575.04,2015,"Sepang International Circuit",0
+Williams,109631.77,2015,"Sepang International Circuit",0
+"Toro Rosso",110063.48,2015,"Sepang International Circuit",0
+Ferrari,108317.73,2015,"Sepang International Circuit",1
+Mercedes,108470.75,2015,"Sepang International Circuit",1
+Mercedes,108537.55,2015,"Sepang International Circuit",1
+Ferrari,109278.84,2015,"Sepang International Circuit",0
+"Force India",105479.25,2016,"Sepang International Circuit",0
+McLaren,105617.71,2016,"Sepang International Circuit",0
+Renault,105861.46,2016,"Sepang International Circuit",0
+"Toro Rosso",105922.39,2016,"Sepang International Circuit",0
+"Force India",105295.89,2016,"Sepang International Circuit",0
+"Red Bull",104156.71,2016,"Sepang International Circuit",1
+"Red Bull",104200.34,2016,"Sepang International Circuit",1
+Mercedes,104612.36,2016,"Sepang International Circuit",1
+Ferrari,104670.73,2016,"Sepang International Circuit",0
+Williams,105256.39,2016,"Sepang International Circuit",0
+McLaren,105321.09,2016,"Sepang International Circuit",0
+Mercedes,97451.98,2017,"Sepang International Circuit",0
+"Force India",97855.71,2017,"Sepang International Circuit",0
+"Red Bull",96451.61,2017,"Sepang International Circuit",1
+Mercedes,96679.64,2017,"Sepang International Circuit",1
+"Red Bull",96853.73,2017,"Sepang International Circuit",1
+Ferrari,97118.79,2017,"Sepang International Circuit",0
+"Red Bull",104360.63,2014,"Shanghai International Circuit",0
+Mercedes,103858.11,2014,"Shanghai International Circuit",1
+Mercedes,104192.59,2014,"Shanghai International Circuit",1
+Ferrari,105271.72,2014,"Shanghai International Circuit",0
+Williams,104889.54,2014,"Shanghai International Circuit",0
+"Force India",104863.57,2014,"Shanghai International Circuit",0
+Ferrari,104295.22,2014,"Shanghai International Circuit",1
+"Red Bull",104742.89,2014,"Shanghai International Circuit",0
+"Force India",105388.61,2014,"Shanghai International Circuit",0
+Mercedes,106821.57,2015,"Shanghai International Circuit",1
+"Lotus F1",107161.00,2015,"Shanghai International Circuit",0
+Sauber,107225.59,2015,"Shanghai International Circuit",0
+"Red Bull",107395.09,2015,"Shanghai International Circuit",0
+Mercedes,106834.32,2015,"Shanghai International Circuit",1
+Ferrari,106874.93,2015,"Shanghai International Circuit",1
+Ferrari,106890.05,2015,"Shanghai International Circuit",0
+Williams,106974.14,2015,"Shanghai International Circuit",0
+Williams,106998.09,2015,"Shanghai International Circuit",0
+"Toro Rosso",107377.84,2016,"Shanghai International Circuit",0
+Mercedes,105962.34,2016,"Shanghai International Circuit",1
+Ferrari,106636.91,2016,"Shanghai International Circuit",1
+"Red Bull",106782.63,2016,"Shanghai International Circuit",1
+"Red Bull",106903.20,2016,"Shanghai International Circuit",0
+McLaren,107783.59,2016,"Shanghai International Circuit",0
+Williams,107310.75,2016,"Shanghai International Circuit",0
+Mercedes,107359.30,2016,"Shanghai International Circuit",0
+Ferrari,107138.63,2016,"Shanghai International Circuit",0
+McLaren,107699.00,2016,"Shanghai International Circuit",0
+"Force India",107645.96,2016,"Shanghai International Circuit",0
+Williams,107501.48,2016,"Shanghai International Circuit",0
+"Toro Rosso",107464.61,2016,"Shanghai International Circuit",0
+Ferrari,104685.86,2017,"Shanghai International Circuit",1
+Ferrari,105432.75,2017,"Shanghai International Circuit",0
+"Red Bull",105396.30,2017,"Shanghai International Circuit",0
+"Toro Rosso",105875.91,2017,"Shanghai International Circuit",0
+Mercedes,105445.82,2017,"Shanghai International Circuit",0
+"Red Bull",105381.25,2017,"Shanghai International Circuit",1
+Mercedes,104574.25,2017,"Shanghai International Circuit",1
+Renault,102811.29,2018,"Shanghai International Circuit",0
+Sauber,103909.91,2018,"Shanghai International Circuit",0
+"Toro Rosso",103619.82,2018,"Shanghai International Circuit",0
+McLaren,103317.02,2018,"Shanghai International Circuit",0
+"Force India",103234.02,2018,"Shanghai International Circuit",0
+"Force India",103221.96,2018,"Shanghai International Circuit",0
+"Haas F1 Team",103142.39,2018,"Shanghai International Circuit",0
+Mercedes,102738.66,2018,"Shanghai International Circuit",0
+Ferrari,102607.45,2018,"Shanghai International Circuit",1
+Mercedes,102594.18,2018,"Shanghai International Circuit",1
+"Red Bull",102435.36,2018,"Shanghai International Circuit",1
+Renault,103073.98,2018,"Shanghai International Circuit",0
+Ferrari,103065.46,2018,"Shanghai International Circuit",0
+McLaren,102982.48,2018,"Shanghai International Circuit",0
+Williams,103426.25,2018,"Shanghai International Circuit",0
+Williams,103475.38,2018,"Shanghai International Circuit",0
+Sauber,103553.29,2018,"Shanghai International Circuit",0
+"Haas F1 Team",103601.36,2018,"Shanghai International Circuit",0
+"Red Bull",102800.29,2018,"Shanghai International Circuit",0
+Ferrari,98930.79,2019,"Shanghai International Circuit",1
+Mercedes,98801.82,2019,"Shanghai International Circuit",1
+Mercedes,98684.82,2019,"Shanghai International Circuit",1
+"Red Bull",100279.59,2019,"Shanghai International Circuit",0
+Ferrari,99243.32,2019,"Shanghai International Circuit",0
+"Red Bull",99178.16,2019,"Shanghai International Circuit",0
+"Force India",171168.96,2014,"Silverstone Circuit",0
+McLaren,170666.48,2014,"Silverstone Circuit",0
+Ferrari,170616.15,2014,"Silverstone Circuit",0
+"Red Bull",170357.48,2014,"Silverstone Circuit",1
+Mercedes,169463.35,2014,"Silverstone Circuit",1
+Williams,170042.87,2014,"Silverstone Circuit",1
+McLaren,170374.69,2014,"Silverstone Circuit",0
+"Red Bull",170499.19,2014,"Silverstone Circuit",0
+"Toro Rosso",171181.42,2014,"Silverstone Circuit",0
+Williams,106241.69,2015,"Silverstone Circuit",0
+Williams,106748.52,2015,"Silverstone Circuit",0
+"Red Bull",106763.15,2015,"Silverstone Circuit",0
+"Force India",107047.56,2015,"Silverstone Circuit",0
+Ferrari,106022.54,2015,"Silverstone Circuit",1
+Mercedes,105743.94,2015,"Silverstone Circuit",1
+Mercedes,105533.25,2015,"Silverstone Circuit",1
+Mercedes,109535.21,2016,"Silverstone Circuit",1
+Mercedes,109860.42,2016,"Silverstone Circuit",1
+"Red Bull",110039.27,2016,"Silverstone Circuit",0
+"Force India",111014.85,2016,"Silverstone Circuit",0
+"Force India",111029.67,2016,"Silverstone Circuit",0
+"Toro Rosso",111186.33,2016,"Silverstone Circuit",0
+Ferrari,111297.79,2016,"Silverstone Circuit",0
+Ferrari,110876.42,2016,"Silverstone Circuit",0
+"Red Bull",109693.87,2016,"Silverstone Circuit",1
+"Toro Rosso",111315.98,2016,"Silverstone Circuit",0
+Ferrari,97674.88,2017,"Silverstone Circuit",0
+Renault,97167.43,2017,"Silverstone Circuit",0
+Mercedes,95831.96,2017,"Silverstone Circuit",1
+Mercedes,96107.71,2017,"Silverstone Circuit",1
+Ferrari,96549.02,2017,"Silverstone Circuit",1
+"Red Bull",97125.20,2017,"Silverstone Circuit",0
+"Red Bull",96854.02,2017,"Silverstone Circuit",0
+Ferrari,101027.62,2018,"Silverstone Circuit",1
+Mercedes,101000.92,2018,"Silverstone Circuit",1
+"Red Bull",101140.08,2018,"Silverstone Circuit",0
+"Haas F1 Team",101595.62,2018,"Silverstone Circuit",0
+Williams,101882.63,2018,"Silverstone Circuit",0
+Williams,101690.19,2018,"Silverstone Circuit",0
+McLaren,101645.35,2018,"Silverstone Circuit",0
+"Force India",101624.85,2018,"Silverstone Circuit",0
+McLaren,101555.75,2018,"Silverstone Circuit",0
+"Force India",101532.96,2018,"Silverstone Circuit",0
+Renault,101500.08,2018,"Silverstone Circuit",0
+Mercedes,101128.21,2018,"Silverstone Circuit",0
+"Toro Rosso",101709.87,2018,"Silverstone Circuit",0
+Ferrari,100957.38,2018,"Silverstone Circuit",1
+"Red Bull",94291.23,2019,"Silverstone Circuit",0
+Ferrari,94203.25,2019,"Silverstone Circuit",1
+Mercedes,94103.46,2019,"Silverstone Circuit",1
+Mercedes,93624.08,2019,"Silverstone Circuit",1
+"Red Bull",94382.88,2019,"Silverstone Circuit",0
+McLaren,94655.60,2019,"Silverstone Circuit",0
+Renault,95022.79,2019,"Silverstone Circuit",0
+"Racing Point",95183.42,2019,"Silverstone Circuit",0
+Renault,94670.25,2019,"Silverstone Circuit",0
+"Alfa Romeo",94884.46,2019,"Silverstone Circuit",0
+"Toro Rosso",94907.15,2019,"Silverstone Circuit",0
+McLaren,95052.56,2019,"Silverstone Circuit",0
+"Toro Rosso",95078.25,2019,"Silverstone Circuit",0
+Ferrari,93372.37,2020,"Silverstone Circuit",0
+McLaren,93385.83,2020,"Silverstone Circuit",0
+Ferrari,101918.40,2020,"Silverstone Circuit",1
+Mercedes,101563.13,2020,"Silverstone Circuit",1
+"Red Bull",101675.75,2020,"Silverstone Circuit",1
+Renault,101941.02,2020,"Silverstone Circuit",0
+McLaren,101991.54,2020,"Silverstone Circuit",0
+Renault,102081.15,2020,"Silverstone Circuit",0
+AlphaTauri,102162.90,2020,"Silverstone Circuit",0
+"Red Bull",102191.40,2020,"Silverstone Circuit",0
+Ferrari,102368.08,2020,"Silverstone Circuit",0
+Mercedes,102374.04,2020,"Silverstone Circuit",0
+Williams,102563.21,2020,"Silverstone Circuit",0
+"Racing Point",102280.65,2020,"Silverstone Circuit",0
+McLaren,102589.48,2020,"Silverstone Circuit",0
+"Alfa Romeo",102605.54,2020,"Silverstone Circuit",0
+Williams,102612.15,2020,"Silverstone Circuit",0
+"Haas F1 Team",102621.79,2020,"Silverstone Circuit",0
+"Red Bull",91961.40,2020,"Silverstone Circuit",1
+Mercedes,92179.21,2020,"Silverstone Circuit",1
+Mercedes,92331.23,2020,"Silverstone Circuit",1
+Ferrari,92524.65,2020,"Silverstone Circuit",0
+"Red Bull",92714.21,2020,"Silverstone Circuit",0
+"Racing Point",92779.44,2020,"Silverstone Circuit",0
+"Racing Point",93037.38,2020,"Silverstone Circuit",0
+Renault,93207.04,2020,"Silverstone Circuit",0
+McLaren,93221.87,2020,"Silverstone Circuit",0
+AlphaTauri,93301.19,2020,"Silverstone Circuit",0
+AlphaTauri,93319.90,2020,"Silverstone Circuit",0
+AlphaTauri,138242.52,2021,"Silverstone Circuit",0
+AlphaTauri,138179.79,2021,"Silverstone Circuit",0
+Ferrari,136676.06,2021,"Silverstone Circuit",1
+Mercedes,136815.56,2021,"Silverstone Circuit",1
+McLaren,137151.10,2021,"Silverstone Circuit",0
+McLaren,137421.31,2021,"Silverstone Circuit",0
+Ferrari,137437.27,2021,"Silverstone Circuit",0
+"Aston Martin",138030.25,2021,"Silverstone Circuit",0
+"Alpine F1 Team",138066.27,2021,"Silverstone Circuit",0
+"Alpine F1 Team",137988.02,2021,"Silverstone Circuit",0
+Mercedes,136601.62,2021,"Silverstone Circuit",1
+"Haas F1 Team",159517.33,2022,"Silverstone Circuit",0
+"Aston Martin",159474.37,2022,"Silverstone Circuit",0
+Ferrari,159044.44,2022,"Silverstone Circuit",1
+"Aston Martin",159547.27,2022,"Silverstone Circuit",0
+Williams,159669.65,2022,"Silverstone Circuit",0
+McLaren,159675.54,2022,"Silverstone Circuit",0
+"Red Bull",159117.12,2022,"Silverstone Circuit",1
+Mercedes,159164.15,2022,"Silverstone Circuit",1
+Ferrari,159208.79,2022,"Silverstone Circuit",0
+"Alpine F1 Team",159228.50,2022,"Silverstone Circuit",0
+McLaren,159274.12,2022,"Silverstone Circuit",0
+"Red Bull",159405.54,2022,"Silverstone Circuit",0
+"Haas F1 Team",159409.73,2022,"Silverstone Circuit",0
+AlphaTauri,159831.17,2022,"Silverstone Circuit",0
+Williams,104305.08,2014,"Sochi Autodrom",1
+Mercedes,104233.98,2014,"Sochi Autodrom",1
+Mercedes,103976.30,2014,"Sochi Autodrom",1
+"Toro Rosso",105812.06,2014,"Sochi Autodrom",0
+"Force India",105510.43,2014,"Sochi Autodrom",0
+Williams,105502.28,2014,"Sochi Autodrom",0
+"Force India",105487.00,2014,"Sochi Autodrom",0
+Ferrari,105464.55,2014,"Sochi Autodrom",0
+"Red Bull",105225.08,2014,"Sochi Autodrom",0
+"Red Bull",105142.57,2014,"Sochi Autodrom",0
+Ferrari,105108.68,2014,"Sochi Autodrom",0
+McLaren,104987.92,2014,"Sochi Autodrom",0
+McLaren,104546.75,2014,"Sochi Autodrom",0
+Mercedes,110019.32,2015,"Sochi Autodrom",1
+Ferrari,110131.64,2015,"Sochi Autodrom",1
+"Force India",110564.94,2015,"Sochi Autodrom",1
+Williams,110751.98,2015,"Sochi Autodrom",0
+"Red Bull",110916.79,2015,"Sochi Autodrom",0
+McLaren,111740.26,2015,"Sochi Autodrom",0
+Ferrari,111384.57,2015,"Sochi Autodrom",0
+"Lotus F1",111171.92,2015,"Sochi Autodrom",0
+Sauber,111085.51,2015,"Sochi Autodrom",0
+McLaren,111518.70,2015,"Sochi Autodrom",0
+"Toro Rosso",111687.70,2015,"Sochi Autodrom",0
+Ferrari,105547.08,2016,"Sochi Autodrom",1
+Mercedes,105415.45,2016,"Sochi Autodrom",1
+Williams,106347.62,2016,"Sochi Autodrom",0
+Mercedes,104943.34,2016,"Sochi Autodrom",1
+Williams,105890.83,2016,"Sochi Autodrom",0
+Mercedes,102405.06,2017,"Sochi Autodrom",0
+Mercedes,101706.60,2017,"Sochi Autodrom",1
+Ferrari,101718.46,2017,"Sochi Autodrom",1
+Ferrari,101918.13,2017,"Sochi Autodrom",1
+Renault,103556.37,2017,"Sochi Autodrom",0
+"Force India",103533.60,2017,"Sochi Autodrom",0
+"Force India",103375.60,2017,"Sochi Autodrom",0
+"Red Bull",102868.44,2017,"Sochi Autodrom",0
+Ferrari,99277.81,2018,"Sochi Autodrom",0
+"Red Bull",99550.89,2018,"Sochi Autodrom",0
+"Red Bull",100483.62,2018,"Sochi Autodrom",0
+Mercedes,98965.68,2018,"Sochi Autodrom",1
+Ferrari,99106.94,2018,"Sochi Autodrom",1
+Mercedes,99013.70,2018,"Sochi Autodrom",1
+Sauber,100822.09,2018,"Sochi Autodrom",0
+McLaren,106884.55,2019,"Sochi Autodrom",0
+"Racing Point",106938.11,2019,"Sochi Autodrom",0
+"Toro Rosso",107197.89,2019,"Sochi Autodrom",0
+"Haas F1 Team",107127.75,2019,"Sochi Autodrom",0
+Renault,107147.79,2019,"Sochi Autodrom",0
+"Racing Point",107166.28,2019,"Sochi Autodrom",0
+"Alfa Romeo",107318.91,2019,"Sochi Autodrom",0
+"Toro Rosso",107340.91,2019,"Sochi Autodrom",0
+"Alfa Romeo",107402.60,2019,"Sochi Autodrom",0
+"Red Bull",106742.26,2019,"Sochi Autodrom",0
+McLaren,107108.32,2019,"Sochi Autodrom",0
+Mercedes,106018.72,2019,"Sochi Autodrom",1
+Mercedes,106090.96,2019,"Sochi Autodrom",1
+Ferrari,106117.06,2019,"Sochi Autodrom",1
+"Red Bull",106286.83,2019,"Sochi Autodrom",0
+Renault,107705.09,2020,"Sochi Autodrom",0
+AlphaTauri,108115.66,2020,"Sochi Autodrom",0
+AlphaTauri,107718.94,2020,"Sochi Autodrom",0
+"Red Bull",108268.38,2020,"Sochi Autodrom",0
+Mercedes,106850.81,2020,"Sochi Autodrom",1
+"Racing Point",106998.53,2020,"Sochi Autodrom",0
+"Red Bull",106567.79,2020,"Sochi Autodrom",1
+Mercedes,106421.96,2020,"Sochi Autodrom",1
+Renault,107404.32,2020,"Sochi Autodrom",0
+Ferrari,107595.28,2020,"Sochi Autodrom",0
+"Red Bull",104359.94,2021,"Sochi Autodrom",0
+McLaren,103898.26,2021,"Sochi Autodrom",0
+Mercedes,103934.60,2021,"Sochi Autodrom",0
+"Alpine F1 Team",104194.75,2021,"Sochi Autodrom",0
+McLaren,104306.13,2021,"Sochi Autodrom",0
+"Alfa Romeo",104338.79,2021,"Sochi Autodrom",0
+"Red Bull",103665.51,2021,"Sochi Autodrom",1
+Ferrari,103839.17,2021,"Sochi Autodrom",1
+Mercedes,102660.40,2021,"Sochi Autodrom",1
+Williams,104557.58,2021,"Sochi Autodrom",0
+"Aston Martin",104664.13,2021,"Sochi Autodrom",0
+"Toro Rosso",155242.25,2014,"Suzuka Circuit",0
+Mercedes,152341.39,2014,"Suzuka Circuit",1
+Mercedes,152550.02,2014,"Suzuka Circuit",1
+"Red Bull",153003.25,2014,"Suzuka Circuit",1
+"Red Bull",153223.61,2014,"Suzuka Circuit",0
+McLaren,153876.61,2014,"Suzuka Circuit",0
+Williams,154927.14,2014,"Suzuka Circuit",0
+Williams,154957.89,2014,"Suzuka Circuit",0
+"Force India",154976.57,2014,"Suzuka Circuit",0
+Mercedes,99745.43,2015,"Suzuka Circuit",1
+"Force India",100793.72,2015,"Suzuka Circuit",0
+Williams,100438.75,2015,"Suzuka Circuit",0
+Ferrari,100382.57,2015,"Suzuka Circuit",0
+Ferrari,100138.83,2015,"Suzuka Circuit",1
+Mercedes,100103.25,2015,"Suzuka Circuit",1
+"Lotus F1",101133.64,2015,"Suzuka Circuit",0
+"Lotus F1",101109.55,2015,"Suzuka Circuit",0
+"Toro Rosso",101543.83,2015,"Suzuka Circuit",0
+"Haas F1 Team",100048.81,2016,"Suzuka Circuit",0
+Williams,100031.25,2016,"Suzuka Circuit",0
+Williams,100020.68,2016,"Suzuka Circuit",0
+"Force India",99292.64,2016,"Suzuka Circuit",0
+"Force India",99260.91,2016,"Suzuka Circuit",0
+"Red Bull",98816.49,2016,"Suzuka Circuit",0
+"Red Bull",98270.02,2016,"Suzuka Circuit",1
+Mercedes,98176.09,2016,"Suzuka Circuit",1
+Ferrari,98711.38,2016,"Suzuka Circuit",0
+Ferrari,98558.53,2016,"Suzuka Circuit",0
+Mercedes,98285.08,2016,"Suzuka Circuit",1
+Mercedes,99079.13,2017,"Suzuka Circuit",1
+"Red Bull",99101.98,2017,"Suzuka Circuit",1
+"Red Bull",99261.75,2017,"Suzuka Circuit",1
+Mercedes,99278.75,2017,"Suzuka Circuit",0
+Ferrari,99694.64,2017,"Suzuka Circuit",0
+"Force India",100358.15,2017,"Suzuka Circuit",0
+"Force India",100426.75,2017,"Suzuka Circuit",0
+"Haas F1 Team",100757.49,2017,"Suzuka Circuit",0
+"Haas F1 Team",100775.04,2017,"Suzuka Circuit",0
+"Force India",100473.91,2018,"Suzuka Circuit",0
+Ferrari,99774.72,2018,"Suzuka Circuit",0
+Mercedes,99056.25,2018,"Suzuka Circuit",1
+"Red Bull",99082.21,2018,"Suzuka Circuit",1
+Mercedes,98812.49,2018,"Suzuka Circuit",1
+"Red Bull",99180.32,2018,"Suzuka Circuit",0
+Ferrari,100130.85,2018,"Suzuka Circuit",0
+"Force India",100310.21,2018,"Suzuka Circuit",0
+"Haas F1 Team",100457.74,2018,"Suzuka Circuit",0
+McLaren,95689.54,2019,"Suzuka Circuit",0
+"Red Bull",95505.62,2019,"Suzuka Circuit",0
+Mercedes,94360.67,2019,"Suzuka Circuit",1
+Ferrari,94617.27,2019,"Suzuka Circuit",1
+Mercedes,94627.17,2019,"Suzuka Circuit",1
+"Aston Martin",391084.36,2022,"Suzuka Circuit",0
+"Alpine F1 Team",391084.75,2022,"Suzuka Circuit",0
+"Aston Martin",392068.14,2022,"Suzuka Circuit",0
+"Haas F1 Team",392733.11,2022,"Suzuka Circuit",0
+AlphaTauri,393289.11,2022,"Suzuka Circuit",0
+"Alpine F1 Team",390846.04,2022,"Suzuka Circuit",0
+"Alfa Romeo",392537.39,2022,"Suzuka Circuit",0
+"Alfa Romeo",392517.86,2022,"Suzuka Circuit",0
+"Haas F1 Team",392500.71,2022,"Suzuka Circuit",0
+Mercedes,391130.89,2022,"Suzuka Circuit",0
+AlphaTauri,392128.68,2022,"Suzuka Circuit",0
+McLaren,392031.46,2022,"Suzuka Circuit",0
+McLaren,391956.64,2022,"Suzuka Circuit",0
+Williams,391933.82,2022,"Suzuka Circuit",0
+"Red Bull",389428.71,2022,"Suzuka Circuit",1
+"Red Bull",390395.36,2022,"Suzuka Circuit",1
+Ferrari,390563.11,2022,"Suzuka Circuit",1
+Mercedes,390868.93,2022,"Suzuka Circuit",0
+"Force India",109339.62,2014,"Yas Marina Circuit",0
+"Red Bull",109357.53,2014,"Yas Marina Circuit",0
+Ferrari,109607.85,2014,"Yas Marina Circuit",0
+Ferrari,109644.35,2014,"Yas Marina Circuit",0
+McLaren,109690.82,2014,"Yas Marina Circuit",0
+"Toro Rosso",109719.38,2014,"Yas Marina Circuit",0
+Mercedes,108047.62,2014,"Yas Marina Circuit",1
+Williams,108094.45,2014,"Yas Marina Circuit",1
+McLaren,109144.60,2014,"Yas Marina Circuit",0
+"Force India",109177.58,2014,"Yas Marina Circuit",0
+"Red Bull",108724.65,2014,"Yas Marina Circuit",0
+Williams,108572.71,2014,"Yas Marina Circuit",1
+"Red Bull",108639.73,2015,"Yas Marina Circuit",0
+Ferrari,107811.00,2015,"Yas Marina Circuit",1
+Ferrari,108252.91,2015,"Yas Marina Circuit",0
+"Force India",108620.49,2015,"Yas Marina Circuit",0
+"Red Bull",109319.02,2015,"Yas Marina Circuit",0
+Mercedes,107608.11,2015,"Yas Marina Circuit",1
+"Force India",109159.87,2015,"Yas Marina Circuit",0
+"Lotus F1",109243.20,2015,"Yas Marina Circuit",0
+Williams,109235.02,2015,"Yas Marina Circuit",0
+"Toro Rosso",109340.00,2015,"Yas Marina Circuit",0
+Mercedes,107457.73,2015,"Yas Marina Circuit",1
+Ferrari,107324.16,2016,"Yas Marina Circuit",0
+"Force India",108050.71,2016,"Yas Marina Circuit",0
+Mercedes,106982.05,2016,"Yas Marina Circuit",1
+Mercedes,106990.04,2016,"Yas Marina Circuit",1
+"Force India",107893.22,2016,"Yas Marina Circuit",0
+McLaren,108071.07,2016,"Yas Marina Circuit",0
+"Haas F1 Team",108711.38,2016,"Yas Marina Circuit",0
+Williams,108062.71,2016,"Yas Marina Circuit",0
+"Haas F1 Team",108378.00,2016,"Yas Marina Circuit",0
+"Red Bull",107012.69,2016,"Yas Marina Circuit",0
+Ferrari,106997.38,2016,"Yas Marina Circuit",1
+"Red Bull",107078.69,2016,"Yas Marina Circuit",0
+"Force India",104474.98,2017,"Yas Marina Circuit",0
+Renault,104359.55,2017,"Yas Marina Circuit",0
+"Force India",104599.51,2017,"Yas Marina Circuit",0
+"Red Bull",103642.38,2017,"Yas Marina Circuit",0
+Ferrari,103626.33,2017,"Yas Marina Circuit",0
+Ferrari,103152.58,2017,"Yas Marina Circuit",1
+Mercedes,102801.13,2017,"Yas Marina Circuit",1
+Mercedes,102872.02,2017,"Yas Marina Circuit",1
+Mercedes,108734.22,2018,"Yas Marina Circuit",1
+"Force India",110393.76,2018,"Yas Marina Circuit",0
+Sauber,110384.93,2018,"Yas Marina Circuit",0
+Renault,110053.27,2018,"Yas Marina Circuit",0
+Mercedes,109606.16,2018,"Yas Marina Circuit",0
+"Red Bull",109013.84,2018,"Yas Marina Circuit",0
+"Red Bull",108965.24,2018,"Yas Marina Circuit",1
+Ferrari,108781.15,2018,"Yas Marina Circuit",1
+"Red Bull",103907.64,2019,"Yas Marina Circuit",0
+Ferrari,103819.49,2019,"Yas Marina Circuit",0
+Mercedes,103456.25,2019,"Yas Marina Circuit",0
+"Red Bull",102954.31,2019,"Yas Marina Circuit",1
+Mercedes,102649.36,2019,"Yas Marina Circuit",1
+Ferrari,103439.09,2019,"Yas Marina Circuit",1
+"Red Bull",105611.49,2020,"Yas Marina Circuit",0
+Mercedes,105582.91,2020,"Yas Marina Circuit",1
+Mercedes,105538.56,2020,"Yas Marina Circuit",1
+"Red Bull",105248.09,2020,"Yas Marina Circuit",1
+Renault,106588.96,2020,"Yas Marina Circuit",0
+McLaren,106441.95,2020,"Yas Marina Circuit",0
+McLaren,106352.25,2020,"Yas Marina Circuit",0
+"Racing Point",105278.44,2020,"Yas Marina Circuit",0
+Renault,105454.47,2020,"Yas Marina Circuit",0
+AlphaTauri,106879.33,2020,"Yas Marina Circuit",0
+"Red Bull",93402.50,2021,"Yas Marina Circuit",1
+Ferrari,93491.69,2021,"Yas Marina Circuit",1
+AlphaTauri,93500.64,2021,"Yas Marina Circuit",0
+AlphaTauri,93515.10,2021,"Yas Marina Circuit",0
+Mercedes,93531.17,2021,"Yas Marina Circuit",0
+McLaren,94423.19,2021,"Yas Marina Circuit",0
+Mercedes,93441.40,2021,"Yas Marina Circuit",1
+"Alpine F1 Team",94466.43,2021,"Yas Marina Circuit",0
+"Alpine F1 Team",94506.40,2021,"Yas Marina Circuit",0
+Ferrari,94541.41,2021,"Yas Marina Circuit",0
+"Aston Martin",94566.76,2021,"Yas Marina Circuit",0
+"Red Bull",90791.62,2022,"Yas Marina Circuit",1
+Ferrari,90942.84,2022,"Yas Marina Circuit",1
+"Red Bull",90965.64,2022,"Yas Marina Circuit",1
+Ferrari,91220.79,2022,"Yas Marina Circuit",0
+Mercedes,91410.38,2022,"Yas Marina Circuit",0
+McLaren,91761.17,2022,"Yas Marina Circuit",0
+"Alpine F1 Team",91778.52,2022,"Yas Marina Circuit",0
+"Aston Martin",92118.02,2022,"Yas Marina Circuit",0
+McLaren,92227.28,2022,"Yas Marina Circuit",0
+"Aston Martin",92238.14,2022,"Yas Marina Circuit",0
+AlphaTauri,92332.50,2022,"Yas Marina Circuit",0
