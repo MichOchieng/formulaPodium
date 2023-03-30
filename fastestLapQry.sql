@@ -1,11 +1,10 @@
 use formula_db;
-SELECT distinct
+SELECT distinct 
   races.year,
   circuits.name AS circuit,
   results.fastestLap,
   fastest_lap.lap,
-  fastest_lap.milliseconds,
-  fastest_lap.time,
+  fastest_lap.milliseconds AS avglap,
   1 as podium
 FROM results
 JOIN (
