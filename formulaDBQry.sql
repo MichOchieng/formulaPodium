@@ -2,10 +2,8 @@ use formula_db;
 -- alter table results
 -- add avglap decimal(10,2) generated always as (results.milliseconds / results.laps) virtual;
 select 
-	results.laps, 
-    results.milliseconds, 
+	constructors.name as constructor,
     results.avglap,
-    constructors.name as constructor,
     races.year,
     circuits.name as circuit,
 case 
