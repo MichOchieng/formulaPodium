@@ -1,6 +1,6 @@
 use formula_db;
--- alter table results
--- add avglap decimal(10,2) generated always as (results.milliseconds / results.laps) virtual;
+alter table results
+add avglap decimal(10,2) generated always as (results.milliseconds / results.laps) virtual;
 select 
 	constructors.name as constructor,
     results.avglap,
